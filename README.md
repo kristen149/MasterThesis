@@ -7,8 +7,8 @@ A modular, reproducible Text-to-SQL evaluation engine, execution environment, an
 
 ## Paper & Repository References
 
-* :scroll: [Text-to-SQL Oriented to the Process Mining Domain: A PT-EN Dataset for Query Translation](https://arxiv.org/pdf/2509.09684)
-* :octocat: Original Repository: [https://github.com/pm-usp/text-2-sql](https://github.com/pm-usp/text-2-sql)
+* Research Paper: [Text-to-SQL Oriented to the Process Mining Domain: A PT-EN Dataset for Query Translation](https://arxiv.org/pdf/2509.09684)
+* Original Repository: [https://github.com/pm-usp/text-2-sql](https://github.com/pm-usp/text-2-sql)
 
 ---
 
