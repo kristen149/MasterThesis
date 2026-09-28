@@ -1,0 +1,1655 @@
+1_0: How many 'end trip' activities are there in the event log?
+1_1: How many 'end trip' activities do we have?
+1_2: How many times was the 'end trip' activity performed?
+1_3: How many occurrences of the 'end trip' activity are there in the event log?
+1_4: How many times did the 'end trip' activity occur?
+1_5: How many events related to the 'end trip' activity are there in the event log?
+1_6: How many times was the activity named 'end trip' performed?
+1_7: Report the number of times the 'end trip' activity was performed.
+1_8: Report the number of occurrences of the 'end trip' activity.
+1_9: Report the number of occurrences of the activity named 'end trip'.
+1_10: How many times was the end of a trip recorded?
+2_0: How many performances of the 'end trip' activity were performed by the James resource?
+2_1: How many activities do we have that were updated by the James resource and that refer to the 'end trip'?
+2_2: How many activity performances were updated by the James resource and refer to the 'end trip'?
+2_3: How many times was the 'end trip' activity performed by the James resource?
+2_4: How many times was the activity named 'end trip' performed by the James resource?
+2_5: How many events related to the 'end trip' activity are linked to the James resource?
+2_6: How many events related to the 'end trip' activity are also linked to the James resource?
+2_7: Report the number of times the activity named 'end trip' was performed by the James resource.
+2_8: Report the number of occurrences of the 'end trip' activity associated with the James resource.
+2_9: How many times did the employee James register the finalization of a trip?
+2_10: How many activities updated by James refer to the end of a trip?
+3_0: What is the number of events performed by each of the resources?
+3_1: Show the number of events associated with each resource.
+3_2: How many events is each of the resources associated with?
+3_3: In how many events did each of the resources act?
+3_4: Report the number of events performed by each of the resources.
+3_5: How many times does each of the resources appear in the event log?
+3_6: Report the number of times each of the resources appears in the event log.
+3_7: Report how many events each resource is involved in.
+3_8: How many activity performances is each resource involved in?
+3_9: What is the number of activity performances that each resource is involved in?
+3_10: Quantify the performance of each employee in terms of actions taken on travel declarations.
+4_0: How many events were performed by the 'Peter' resource?
+4_1: How many times has the 'Peter' resource performed an activity?
+4_2: How many times has the employee 'Peter' performed an activity?
+4_3: How many events were run by the employee 'Peter'?
+4_4: Report the number of times the 'Peter' resource was responsible for an activity.
+4_5: Report the number of times the employee 'Peter' was responsible for an activity.
+4_6: Quantify the performance of the employee Peter in terms of actions taken on travel declarations.
+5_0: Show all cases that terminated in March 2018.
+5_1: Show all cases that ended in March 2018.
+5_2: Report the identifier of cases that terminated in March 2018.
+5_3: Report the identifier for cases that ended in March 2018.
+5_4: Report the identifier of all cases whose last event occurred in March 2018.
+5_5: Which cases terminated in March 2018?
+5_6: Which cases ended in March 2018?
+5_7: Which declarations ended in March 2018?
+6_0: Show all cases that went through the 'declaration rejected by pre-approver' activity, except those in which the activity was performed by the Douglas resource.
+6_1: Show the identifiers of the cases that went through the 'declaration rejected by pre-approver' activity, except those in which the activity was performed by the Douglas 'resource'.
+6_2: Show all cases that went through the 'declaration rejected by pre-approver' activity, except those in which the activity was carried out by the Douglas resource.
+6_3: Show the identifiers of the cases that went through the 'declaration rejected by pre-approver' activity, except those in which the activity was carried out by the Douglas resource.
+6_4: Report the identifiers of the cases that went through the 'declaration rejected by pre-approver' activity, except those in which the activity was performed by the Douglas 'resource'.
+6_5: Retrieve the identifiers of cases that went through the 'declaration rejected by pre-approver' activity, except those in which the activity was performed by Douglas 'resource'.
+6_6: List the identifiers of the cases that went through the 'declaration rejected by pre-approver' activity, except those in which the activity was performed by the Douglas 'resource'.
+6_7: List all cases that went through the 'declaration rejected by pre-approver' activity, except those in which the activity was performed by the Douglas resource.
+6_8: Report all cases that went through the 'declaration rejected by pre-approver' activity, except those in which the activity was performed by the Douglas resource.
+6_9: Retrieve all cases that went through the 'declaration rejected by pre-approver' activity, except those in which the activity was performed by the Douglas resource.
+6_10: In which cases was the 'declaration rejected by pre-approver' activity not performed by the Douglas resource?
+6_11: Which declarations were rejected by a pre-approver other than Douglas?
+6_12: Show all declarations rejected by the pre-approver other than Douglas.
+7_0: How many different resources are there in the event log?
+7_1: How many distinct resources are there in the event log?
+7_2: How many resources are there in the event log?
+7_3: How many different people performed activities?
+7_4: How many different resources are there in the log?
+7_5: How many different people appear in the event log?
+7_6: Report how many different resources performed activities.
+7_7: How many different resources appear in the event log?
+7_8: How many different resources performed activities?
+7_9: Report how many different resources there are in the event log.
+7_10: Report how many different people appear in the event log.
+7_11: Report how many employees were involved in processing the declarations.
+7_12: How many employees worked on processing the declarations?
+8_0: What is the total number of events related to each resource?
+8_1: What is the total number of events each resource worked on?
+8_2: What is the total number of events in which each resource was involved?
+8_3: What is the total number of actions performed by each employee during the processing of the declarations?
+9_0: What are the cases with cost events greater than 2,225?
+9_1: Report the identifiers of cases that have events with costs greater than 2,225.
+9_2: What are the cases associated with events that cost more than 2,225?
+9_3: Which declarations are associated with actions that cost more than 2,225?
+9_4: Report the identifier of declarations in which any action had a cost greater than 2,225.
+10_0: Which resources participated in the most events?
+10_1: Which resources had the most related events?
+10_2: Which resources had the greatest number of related events?
+10_3: What resources were related to the greatest number of events?
+10_4: Which resources were responsible for executing the most events?
+10_5: Which resources were responsible for executing the greatest number of events?
+10_6: Which were the resources that had the most related events?
+10_7: Which resources participated in the greatest number of events?
+10_8: Which resources were related to the most events?
+10_9: Which resources were related to the greatest number of events?
+10_10: Which employees work the most during the processing of declarations?
+11_0: Which resources are related to most events and how many events are they related to?
+11_1: Which resources are related to the greatest number of events and how many events are they related to?
+11_2: Which resources were most related to events and how many events were they related to?
+11_3: Which resources were responsible for executing more events and how many events were under their responsibility?
+11_4: What resources were responsible for executing the greatest number of events and how many events were under their responsibility?
+11_5: Which resources participated in the most events and how many events are there?
+11_6: Which resources participated in the greatest number of events and how many events were there?
+11_7: Who are the most productive employees and how many times did they act on the declarations already registered?
+12_0: List all resources and how many events each one is related to, in descending order of the number of events.
+12_1: List all resources accompanied by how many events each one is related to and sort the answer in descending order by number of events.
+12_2: List all resources and the number of events each is responsible for. Sort the answer in descending order in relation to the number of events.
+12_3: List all resources and how many events each resource participated in. Sort the answer in descending order considering the number of events.
+12_4: List the resources and the number of times they performed activities. Sort the answer in descending order by number of activity performances.
+12_5: Make an ordered list of employees, from most productive to least productive, stating how many times each one was involved in processing declarations.
+13_0: Which events have a cost other than null?
+13_1: Which events have a non-null cost?
+13_2: List the events that have a non-null cost.
+13_3: What are the events in which the cost is not null?
+13_4: List the events that have a cost other than null.
+13_5: Which events have a reported cost?
+13_6: What are the events for which there is a cost reported?
+13_7: List the events that have a reported cost.
+13_8: List the events for which there is a reported cost.
+13_9: Report all occurrences in the processing of declarations where costs were communicated to the university
+14_0: What information is associated with events relating to the 'start trip' or 'request payment' activities?
+14_1: Return event data related to the performance of the 'start trip' or 'request payment' activities.
+14_2: Return information associated with events related to 'start trip' or 'request payment' activities.
+14_3: List the data relating to the events associated with the activity instances named 'start trip' or 'request payment'.
+14_4: I need information associated with the actions that mark the start of a trip and the actions that indicate that a payment request has been made.
+15_0: What are the most frequent activities?
+15_1: What are the most frequently activities performed?
+15_2: Which activities appear most frequently in the event log?
+15_3: Retrieve the names of the activities that are most frequently performed in this business process.
+15_4: What activities does the university perform most during the processing of declarations?
+16_0: Return the name of the activities and how many times they occur in the event log, ordering the list in descending order by the number of activity occurrences.
+16_1: What are the activities of this business process and how many times were they performed? Order your response in relation to the frequency of performing the activities, from the most frequent to the least frequent
+16_2: Retrieve the name of the activities and the number of times they were performed. Order the answer according to the frequency of performing the activities, from the most frequent to the least frequent.
+16_3: Make a list of activities performed during the processing of declarations. The list must be ordered from the most frequent activity to the least frequent and must clearly indicate how many times each activity was performed.
+17_0: What are the events that happened in the year 2017?
+17_1: List events with 'timestamp' in 2017.
+17_2: What events occurred in the year 2017?
+17_3: List the events whose 'timestamp' refers to the year 2017.
+17_4: What events took place in 2017?
+17_5: What events took place during 2017?
+17_6: What events occurred in 2017?
+17_7: What events occurred during the year 2017?
+17_8: What events took place during the year 2017?
+17_9: What events occurred during 2017?
+17_10: I need to know everything that took place during the year 2017 in the processing of declarations.
+17_11: Make a report informing everything that happened during the processing of declarations in the year 2017.
+17_12: Report everything that occurred during the year 2017 in the processing of declarations.
+17_13: What was performed during the year 2017 during the processing of declarations?
+17_14: What actions were taken when processing declarations during the year 2017?
+18_0: What are the declarations with up to 20 events?
+18_1: Which declarations have up to 20 associated events?
+18_2: In which declarations were up to 20 events performed?
+18_3: In which declarations were up to 20 activity occurrences performed?
+18_4: List all declarations that have up to 20 associated events.
+18_5: List all declarations in which the trace has up to 20 events.
+18_6: List all declarations in which the performance has up to 20 events.
+19_0: List the five resources that worked on the most cases.
+19_1: Retrieve the five resources associated with the most cases.
+19_2: Return the five resources requested in the greatest number of cases.
+19_3: What are the top 5 resources with the most cases?
+19_4: Report the five employees who made the most declarations.
+20_0: List the five resources that worked on the most events.
+20_1: Retrieve the five resources associated with the greatest number of events.
+20_2: Return the five resources requested in the greatest number of events.
+20_3: What are the top 5 resources with the greatest number of events?
+20_4: Report the five employees who worked most during the processing of the declarations.
+21_0: How many occurrences of the 'start trip' activity do we have for each resource in the year 2016?
+21_1: How many occurrences of the 'start trip' activity are there associated with each resource in the year 2016?
+21_2: How many performances of the 'start trip' activity are associated with each resource in the year 2016?
+21_3: How many occurrences of the activity named 'start trip' are there associated with each resource in 2016?
+21_4: How many performances of the activity named 'start trip' are associated with each resource in 2016?
+21_5: Report the number of occurrences of the activity named 'start trip' associated with each resource in 2016.
+21_6: Report the total number of occurrences of the activity named 'start trip' performed by each resource in 2016.
+21_7: How many actions were performed by each employee to record the start of trips during 2016?
+21_8: How many activities related to the start of the trip do we have for each resource in 2016?
+22_0: How many times did each resource perform the 'declaration rejected by supervisor' activity?
+22_1: How many occurrences of the 'declaration rejected by supervisor' activity are there for each resource?
+22_2: How many performances of the 'declaration rejected by supervisor' activity are associated with each resource?
+22_3: How many occurrences of the activity named 'declaration rejected by supervisor' are there for each resource?
+22_4: How many performances of the activity named 'declaration rejected by supervisor' are there for each resource?
+22_5: How many occurrences of the activity called 'declaration rejected by supervisor' are there for each resource?
+22_6: How many performances of the activity called 'declaration rejected by supervisor' are there for each resource?
+22_7: Report the amount of occurrences of the 'declaration rejected by supervisor' activity associated with each resource.
+22_8: Report the number of occurrences of the 'declaration rejected by supervisor' activity associated with each resource.
+22_9: Report the total number of occurrences of the 'declaration rejected by supervisor' activity associated with each resource.
+22_10: How many times did each employee reject a declaration in the role of supervisor?
+23_0: What are the cases that have more than 20 activity occurrences?
+23_1: List all cases that have more than 20 activity occurrences.
+23_2: In which cases are there more than 20 occurrences of activities performed?
+23_3: In which cases are there more than twenty occurrences of activities performed?
+23_4: Which process instances have more than 20 activities performed?
+23_5: List all process instances that have more than 20 activity occurrences.
+23_6: In which process instances are there more than 20 occurrences of activities performed?
+23_7: In which process instances are there more than twenty occurrences of activities performed?
+23_8: What are the declarations whose processing went through more than twenty interventions?
+24_0: Which cases have the greatest number of events?
+24_1: What are the cases in which there are most activity performances?
+24_2: Retrieve the identifiers of the cases that have the greatest number of events.
+24_3: Report the identifiers of the cases with the most activities performed.
+24_4: Report the identifiers of the longest cases in terms of number of events.
+24_5: Report the identifiers of the longest cases in terms of activities performed.
+24_6: Retrieve the codes for the longest declarations in terms of number of actions performed.
+25_0: What are the cases in which the 'Sara' resource appears and the 'request payment' activity has not yet been performed?
+25_1: Select all cases that the 'Sara' resource has worked on and that have not yet gone through the 'request payment' activity.
+25_2: Retrieve the identifiers of the cases in which the 'Sara' resource was involved and which have not yet gone through the 'request payment' activity.
+25_3: Select all cases in which the 'Sara' resource worked and the 'request payment' activity was not performed.
+25_4: What are the cases that have not yet performed the 'request payment' activity and with which the 'Sara' resource is associated?
+25_5: Report the declarations in which the employee Sara was involved and for which a payment request has not yet been opened.
+26_0: Retrieve information for events that occurred between the dates '2017-01-10' and '2017-02-01' in the case with the identifier 'declaration 143598'
+26_1: Retrieve information for events of the 'declaration 143598' case that occurred between the dates '2017-01-10' and '2017-02-01'.
+26_2: Report the values of attributes of the events associated with the 'declaration 143598' case, which occurred between the dates '2017-01-10' and '2017-02-01'.
+26_3: Report the values of the attributes of the events that occurred between the dates '2017-01-10' and '2017-02-01' and are associated with the 'declaration 143598' case
+26_4: I need all the information regarding the actions that occurred between January 10, 2017 and February 1, 2017 in the processing of declaration 143598.
+27_0: How many cases was each resource associated with in the period from '2017-01-01' to '2017-05-31'?
+27_1: Retrieve how many cases each resource was associated with in the period between '2017-01-01' and '2017-05-31'.
+27_2: How many cases did each resource work on in the period from '2017-01-01' to '2017-05-31'?
+27_3: In how many cases did each resource act in the period from '2017-01-01' to '2017-05-31'?
+27_4: Considering the period from '2017-01-01' to '2017-05-31', how many cases was each resource associated with?
+27_5: Considering the period from '2017-01-01' to '2017-05-31', how many cases did each resource work on?
+27_6: Considering the period from '2017-01-01' to '2017-05-31', in how many cases did each resource act?
+27_7: Considering the period from the first of January 2017 to the thirty-first of May 2017, how many cases was each resource associated with?
+27_8: Considering the period from the first of January 2017 to the thirty-first of May 2017, how many cases did each resource work on?
+27_9: Considering the period from the first of January 2017 to the thirty-first of May 2017, in how many cases did each resource act?
+27_10: How many declarations did each employee work on between the first of January 2017 to the thirty-first of May 2017?
+28_0: What are the 10 cases, in descending order, with the most activities performed?
+28_1: What are the 10 cases with the greatest number of activities? List the cases in descending order.
+28_2: What are the 10 cases in descending order with the most activities?
+28_3: List the 10 cases, in descending order, with the most activity performances.
+28_4: List, in descending order, the 10 cases that have the most activity performances.
+28_5: Provide a list in descending order of the 10 cases with the most activities.
+28_6: List the ten process instances, in descending order, with the most activity performances.
+28_7: List, in descending order, the ten process instances that have the most activity performances.
+28_8: Provide a list, in descending order, of the ten process instances with the most activities.
+28_9: What are the ten declarations that involved the greatest number of actions? I need the results sorted in descending order according to the code of each declaration
+28_10: What are the ten declarations, in descending code order, with the greatest number of actions?
+29_0: What are the 10 cases, in descending order, with the most events?
+29_1: What are the 10 cases in descending order with the greatest number of events?
+29_2: What are the 10 cases with the greatest number of events? List the cases in descending order.
+29_3: List the 10 cases, in descending order, with the most events.
+29_4: List, in descending order, the 10 cases that have the most events.
+29_5: Provide a list in descending order of the 10 cases with the most events.
+29_6: Make a descending list of 10 declaration codes with the most actions performed during their processing.
+30_0: Return the cost for each case.
+30_1: Return the total cost for each case.
+30_2: Return the total cost of each case.
+30_3: What are the total costs for each of the cases present in the event log?
+30_4: Report the total cost of each case present in the event log.
+30_5: Retrieve the total costs for each of the cases in the event log.
+30_6: Retrieve the total cost of each case.
+30_7: How much did each declaration cost?
+30_8: What was the cost of processing each declaration?
+31_0: Select all resources that acted in at least 100 events and sort the information in descending order of number of events per resource
+31_1: Report the resources that acted in at least 100 events and sort the information in descending order of number of events per resource
+31_2: Make a list of employees who have acted at least 100 times, organized in descending order by the number of actions performed.
+32_0: Retrieve all cases and their events, ordering them by case number and start date of their performance
+32_1: Select all cases, and their respective events, ordered by case number and the start date of their performance
+32_2: Retrieve the identifier of the cases and their events, ordering them by the case identifier and their start date.
+32_3: Report the identifier of each case and its events, ordering them by case identifier and then by their start date.
+32_4: List all cases and their events, ordering them by case identifier and by their start date.
+32_5: Organize all information about the processing of declarations and organize the data in a way ordered by the declaration code and by their start date.
+33_0: How many times was each resource responsible for performing the 'declaration approved by administration' activity?
+33_1: What is the total number of times each resource was responsible for performing the 'declaration approved by administration' activity?
+33_2: Report the total number of times the 'declaration approved by administration' activity was performed by each of the resources.
+33_3: What is the number of occurrences in which the 'declaration approved by administration' activity was performed considering each of the resources available in this business process?
+33_4: How many times has each employee approved a declaration in the role of administrator?
+34_0: How many performance events of the 'declaration approved by administration' activity were carried out by each resource?
+34_1: In how many events was the 'declaration approved by administration' activity performed? Report the quantity grouped by resource.
+34_2: How many times did each employee serve as an administrator approving a declaration?
+35_0: How many instances of each activity did the 'Thomas' resource work on in 2017?
+35_1: List the number of times the 'Thomas' resource performed each of the activities of this business process, in the year 2017.
+35_2: Report the number of occurrences of each activity carried out by the 'Thomas' resource during the year 2017.
+35_3: Report how many times Thomas acted on each of the declaration processing actions in the year 2017
+36_0: How many times did the 'Thomas' resource perform an activity in 2017?
+36_1: What was the number of occurrences of activity in which the 'Thomas' resource was involved in the year 2017?
+36_2: How many activity performances were carried out by the 'Thomas' resource in 2017?
+36_3: How many events was the 'Thomas' resource involved in in 2017?
+36_4: How many times was the 'Thomas' resource involved in an event in the year 2017?
+36_5: What was the workload of the employee Thomas in terms of performing actions for processing declarations in 2017?
+37_0: Report the most recent date of the performance of each activity.
+37_1: Report the date of the most recent event for each of the activities present in the event log.
+37_2: What are the most recent performance dates for each of the activities present in the event log?
+37_3: When was the last performance of each of the business process activities represented by the event log?
+37_4: When was the latest performance of each of the business process activities represented by the event log?
+37_5: For each activity relevant to the event log, report the date of its last occurrence.
+37_6: Most recent date of performance of each activity:
+37_7: On what date was the last record of each type of action taken when processing declarations?
+38_0: How many times were the 'declaration approved by supervisor' activity and 'permit rejected by employee' activity performed, considering the years 2017 and 2018 respectively?
+38_1: How many instances of the 'declaration approved by supervisor' activity were performed in 2017 and how many instances of the 'permit rejected by employee' activity were performed in 2018?
+38_2: How many events related to the 'declaration approved by supervisor' activity occurred in 2017 and how many related to the 'permit rejected by employee' activity occurred in 2018?
+38_3: Count the number of times the 'declaration approved by supervisor' activity was performed in 2017 and the number of times the 'permit rejected by employee' activity was run in 2018.
+38_4: List the number of times that: the 'declaration approved by supervisor' activity was performed in 2017; the 'permit rejected by employee' activity was performed in '2018'.
+38_5: How many declaration approvals made by the supervisor occurred in 2017 and how many permits were rejected by an employee in 2018?
+39_0: Retrieve the activity name, performance end date, and event identifier and sort by performance end date.
+39_1: Retrieve the activity, performance end date, and event identifier and sort the result by performance end date.
+39_2: I want a list of all the actions performed when processing the declarations, including the activity performed, the performance end date and the action identifier. The list needs to be ordered by end date.
+40_0: How many times did the 'Thomas' resource act in the performance of the 'declaration submitted by employee' activity?
+40_1: Total 'declaration submitted by employee' activities performed by Thomas
+40_2: In how many instances of the 'declaration submitted by employee' activity was the Thomas resource active?
+40_3: Calculate the number of occurrences of the 'declaration submitted by employee' activity performed by the Thomas resource.
+40_4: Report the number of times the Thomas resource performed the 'declaration submitted by employee' activity.
+40_5: Total number of declaration requests made by the employee Thomas.
+41_0: In how many events associated with the Diana resource is there cost information?
+41_1: List the number of events that the Diana resource worked on and that have an associated cost
+41_2: Count how many events with associated costs are linked to the Diana resource.
+41_3: Retrieve all interventions carried out by the employee Diana when processing declarations, which have declared cost information.
+42_0: Report the name of the activities in which the 'Diana' resource acted and how many events are associated with them with the existence of a cost.
+42_1: How many events are associated with the Diana resource with cost existence? Group the response by activity name.
+42_2: Retrieve the type of action performed in the interventions carried out by the employee Diana when processing declarations, which has declared cost information.
+43_0: How many resources acted in cases containing more than 3 events?
+43_1: Count the active resources in cases containing more than 3 events.
+43_2: List the number of resources that acted in cases that have more than 3 events.
+43_3: List the number of resources associated with cases that have more than 3 events.
+43_4: How many employees acted in processing declarations that involved more than three interventions?
+44_0: Which resources were responsible for the 'declaration rejected by pre-approver' activity?
+44_1: Which resources were associated with the 'declaration rejected by pre-approver' activity?
+44_2: List the resources that were responsible for performing the 'declaration rejected by pre-approver' activity.
+44_3: What were the resources associated with instances of the 'declaration rejected by pre-approver' activity?
+44_4: Report the resources that performed the 'declaration rejected by pre-approver' activity.
+44_5: Retrieve all resources that were responsible for performing the 'declaration rejected by pre-approver' activity.
+44_6: Which employees decided to reject a declaration in the pre-approval action?
+45_0: How many cases went through the 'declaration final approved by director' activity between months 1 and 5 of 2017?
+45_1: Report the number of cases in which there was at least one performance of the 'declaration final approved by director' activity between January and May 2017.
+45_2: How many cases exist in the event log that went through the 'declaration final approved by director' activity between January and May 2017?
+45_3: How many declarations achieved declaration final approved by a director status between January and May 2017?
+46_0: Which cases had the Charles resource associated and had no events occurring in January 2018
+46_1: List the cases that the Charles resource worked on, disregarding those that have at least one event occurring in January 2018.
+46_2: Considering cases that had no events in January 2018, report those that the Charles resource worked on.
+46_3: Disregarding cases that had events occurring in January 2018, which are the ones that Charles resource worked on?
+46_4: What are the declarations that received interventions from the employee Charles, disregarding the interventions carried out in January 2018?
+47_0: What are the cases that have more than 3 different activities performed?
+47_1: List the case identifiers that have more than 3 different activities performed.
+47_2: Cases that contain more than 3 different activities.
+47_3: In which cases were more than 3 different activities performed?
+47_4: Cases that contain more than three different activities.
+47_5: List the case identifiers that have more than three different activities performed.
+47_6: What are the cases that have more than three different activities performed?
+47_7: In which cases were more than three different activities performed?
+47_8: Which declarations have undergone more than three different interventions?
+48_0: List the case identifiers that have more than 3 events.
+48_1: Cases that contain more than 3 events.
+48_2: What are the cases that have more than 3 events performed?
+48_3: In which cases were more than 3 events performed?
+48_4: Cases that contain more than three events.
+48_5: List the case identifiers that have more than three events.
+48_6: What are the cases that have more than three events performed?
+48_7: In which cases were more than three events performed?
+48_8: Which declarations were subject to more than three interventions?
+49_0: How long did each case last?
+49_1: Approximate total time for each case.
+49_2: Calculate the approximate duration of each case.
+49_3: How long does each case last?
+49_4: Report the duration of each case.
+49_5: What is the duration of processing for each declaration?
+50_0: Which cases had the same resource allocated for all performances of their activities and what was the resource?
+50_1: Which cases had the same resource allocated to all their activities? Who was the resource?
+50_2: Which cases had the same resource allocated for all performances of their activities, and who was the resource?
+50_3: List the cases and resource in which all activities are handled by the same resource.
+50_4: List the cases and resource in which the activities were all allocated to the same resource.
+50_5: Find the cases and resource where the activities are all handled by the same resource.
+50_6: Find the cases and resource where all activities were allocated to the same resource.
+50_7: For cases where the activities are all handled by the same resource, identify the case and that resource.
+50_8: For cases where all activities have been allocated to the same resource, identify the case and that resource.
+50_9: Which declarations were entirely handled by a single employee and what is the name of that employee?
+51_0: Which cases arrived at the 'end trip' activity between 2016 and 2017?
+51_1: Which cases went through the 'end trip' activity between 2016 and 2017?
+51_2: In which cases was the 'end trip' activity carried out between 2016 and 2017?
+51_3: In which process instances was the 'end trip' activity performed between 2016 and 2017?
+51_4: List the cases that arrived at the 'end trip' activity between 2016 and 2017.
+51_5: List the cases that went through the 'end trip' activity between 2016 and 2017.
+51_6: List the cases in which the 'end trip' activity was performed between 2016 and 2017.
+51_7: List the process instances that arrived at the 'end trip' activity between 2016 and 2017.
+51_8: List the process instances that went through the 'end trip' activity between 2016 and 2017.
+51_9: List the process instances where the 'end trip' activity was performed between 2016 and 2017.
+51_10: Make a report listing all declarations in which the end of the trip was recorded in the period 2016 and 2017.
+52_0: List all data on all events related to the performance of activities that have the word 'rejected' in their name.
+52_1: Present all information about events involving the performance of an activity with the word 'rejected' in the name.
+52_2: For all performances of an activity with the word 'rejected' in the name, present all corresponding event information.
+52_3: For all performances of an activity whose name contains the word 'rejected', display all associated event information.
+52_4: For all performances of an activity whose name contains the word 'rejected', present all available information for the corresponding event.
+52_5: Present all available information on events associated with an activity containing the word 'rejected' in its name.
+52_6: Report data on interventions that result in a rejection of the declaration.
+52_7: Make a report of information regarding rejection interventions in the declarations.
+53_0: What are the minimum and maximum costs recorded for each case in which a maximum cost of more than zero is reported?
+53_1: What are the minimum and maximum costs recorded for each case in which the maximum cost is more than zero?
+53_2: What are the minimum and maximum costs recorded for each case in which the maximum cost reported is more than zero?
+53_3: What are the minimum and maximum costs recorded for each case in which the maximum cost reported is greater than zero?
+53_4: List the minimum and maximum costs recorded for each case that had a maximum cost of more than zero reported.
+53_5: List the minimum and maximum costs recorded for each case that had a maximum cost of more than zero.
+53_6: List the minimum and maximum costs recorded for each case that had a maximum cost greater than zero.
+53_7: List the minimum and maximum costs recorded for each case in which the maximum cost of more than zero was filled out.
+53_8: List the minimum and maximum costs recorded for each case in which the maximum cost of more than zero is reported
+53_9: What are the minimum and maximum costs recorded for each case in which the maximum cost of more than zero was reported?
+53_10: What are the minimum and maximum costs recorded for each case in which the maximum cost reported was more than zero?
+53_11: What are the minimum and maximum costs recorded for each case in which the maximum cost reported was greater than zero?
+53_12: What are the minimum and maximum values of interventions carried out for each of the declarations in which the maximum cost reported was greater than zero?
+53_13: List the minimum and maximum costs recorded for each declaration that had a maximum cost more than zero filled out.
+54_0: Show how long it took from the first event of a case to the event related to the activity indicating 'end trip' or to the event related to the activity indicating 'declaration rejected by employee' or the event related to the activity indicating 'payment handled'.
+54_1: Show how long it took from the first event of a case to the event related to the 'end trip' or 'declaration rejected by employee' or 'payment handled' activity.
+54_2: Calculate, for each case, the time elapsed from the first event to the event of interest associated with the 'end trip' or 'declaration rejected by employee' or 'payment handled' activity, and present the calculated time.
+54_3: How long did it take between the first action taken on a declaration until an indication of the finalization of a trip, or until those actions that indicate that the declaration was rejected by an employee or that a payment has already been made?
+54_4: Show how long it took from the first intervention on a declaration to the intervention that indicates the end of the trip, or to those that indicate that the declaration was rejected by an employee or that indicate that a payment has already been made.
+55_0: Show how long it took from the first event of a case to the event related to 'end trip' and to possible 'declaration rejected by employee' or 'payment handled' activities. Furthermore, report the case and the activity treated as final in this context.
+55_1: Show how long it took from the first event of a case to the event related to the activity that indicates the end of the trip ('end trip') or to events related to activities that indicate the rejection of declaration submission ('declaration rejected by employee') or related to activities that indicate payment made ('payment handled'). Along with this time, report the case and the activity considered to be the end of this interval.
+55_2: Show how long it took from the first event of a case to the event related to the 'end trip' or 'declaration rejected by employee' or 'payment handled' activity. In addition to this time, return the case and activity considered at the end of this interval.
+55_3: Calculate, for each case, the elapsed time from the first event to the event of interest associated with the 'end trip' or 'declaration rejected by employee' or 'payment handled' activity, and retrieve the case, the activity of the event of interest and the calculated time.
+55_4: How long does it take from the start of processing a declaration until the end of the trip is recorded or until it is rejected by an employee or payment is made?
+56_0: Retrieve event data associated with 'request payment' activities existing in the event log.
+56_1: Are there records of 'request payment' activity in the event log? If yes, show the event data associated with the records.
+56_2: Are there declarations for which a payment request has already been made? If yes, supply the data from these requests.
+56_3: Are there interventions that request payment for declarations? If so, report details of the performance of this intervention.
+57_0: What is the mean duration time of each type of activity?
+57_1: What is the average duration time of each activity?
+57_2: What is the mean duration time of each activity?
+57_3: How long, on average, does each activity last?
+57_4: What is each activity's mean duration?
+57_5: What is the mean duration of each activity?
+57_6: What is, on average, the duration of each activity?
+57_7: What is each activity's average duration?
+57_8: What is the average duration of each activity?
+57_9: How long does each type of activity last on average?
+57_10: How long does each activity last on average?
+57_11: Report the mean duration time of each type of activity
+57_12: Report what the mean duration time of each activity is.
+57_13: Report what each activity's mean duration time is.
+57_14: Report the mean duration time of each activity.
+57_15: Report how long, on average, each activity lasts.
+57_16: Report the mean duration of each type of activity.
+57_17: Report what the mean duration of each activity is.
+57_18: Report what each activity's mean duration is.
+57_19: Report the mean duration of each activity.
+57_20: Report what is, on average, the duration of each activity.
+57_21: Report what the average duration of each activity is.
+57_22: Report what each activity's average duration is.
+57_23: Report the average duration of each activity.
+57_24: Report how long each activity lasts on average.
+57_25: How long, on average, does each type of intervention carried out during the processing of declarations last?
+58_0: Which are the cases with the highest cost?
+58_1: Which cases have the highest cost?
+58_2: Which cases have the maximum cost already recorded in the event log?
+58_3: Present cases whose costs are equal to the highest cost.
+58_4: Present cases whose costs are equal to the maximum cost already recorded in the event log.
+58_5: Present the highest cost cases.
+58_6: Which declarations represent the highest cost to the university?
+59_0: What are the events with the highest cost?
+59_1: Which events have the highest cost?
+59_2: Which events have the maximum cost?
+59_3: Which events have the maximum cost amount?
+59_4: Present the events whose costs are equal to the highest cost.
+59_5: Present the events whose costs are maximum.
+59_6: Present the highest-cost events.
+59_7: Present the events whose cost amounts are the highest.
+59_8: Present the events whose cost amounts are equal to the maximum cost.
+59_9: Present the events with the highest cost amount.
+59_10: Report the events whose costs are the highest.
+59_11: Report the events whose costs are equal to the maximum cost.
+59_12: Report the highest cost events.
+59_13: Report the events whose cost amounts are the highest.
+59_14: Report the events whose cost amounts are the maximum.
+59_15: Report the events with the highest-cost amount.
+59_16: Which interventions have their costs equal to the highest cost already recorded?
+60_0: List the events, with their attributes, that refer to the 'start trip' activity.
+60_1: List the events, with their respective attributes, that refer to the 'start trip' activity.
+60_2: List the events, with their attributes, that refer to the performance of the 'start trip' activity.
+60_3: List the events, with their respective attributes, that refer to the performance of the 'start trip' activity.
+60_4: List all available information about the events that relate to the 'start trip' activity.
+60_5: List all available information about the events that relate to the performance of the 'start trip' activity.
+60_6: List all available information regarding events related to the performance of the 'start trip' activity.
+60_7: List all available information regarding the events resulting from the performance of the 'start trip' activity.
+60_8: Present the events, with their attributes, that refer to the 'start trip' activity.
+60_9: Present the events, with their respective attributes, that refer to the 'start trip' activity.
+60_10: Present the events, with their attributes, that refer to the performance of the 'start trip' activity.
+60_11: Present all available information about the events that relate to the 'start trip' activity.
+60_12: Present all available information about the events that refer to the 'start trip' activity.
+60_13: Present all available information about the events that relate to the performance of the 'start trip' activity.
+60_14: Present all available information referring to the events related to the performance of the 'start trip' activity.
+60_15: Present all available information referring to the events resulting from the performance of the 'start trip' activity.
+60_16: Make a report with all the information regarding the interventions that generated a record of the start of the trip.
+60_17: Extract data describing the interventions that determine the start of a trip.
+61_0: What is the total number of records per activity?
+61_1: What is the total number of performances of each activity?
+61_2: What is the total quantity of performances of each activity?
+61_3: How many events are there associated with each activity?
+61_4: How many times was each activity performed?
+61_5: How many performances of each activity were recorded?
+61_6: Report how many events are associated with the performance of each activity.
+61_7: For each activity, how many events are related to its performance?
+61_8: Report, for each activity, the number of events resulting from its performance
+61_9: For each activity, how many events result from its performance?
+61_10: Report, for each activity, the number of events related to its performance
+61_11: How many events are associated with the performance of each activity?
+61_12: Report the total number of performances for each activity
+61_13: Report the total quantity of performances for each activity
+61_14: Report how many events there are associated with each activity
+61_15: Report how many times each activity was performed
+61_16: Report how many performances of each activity were recorded
+61_17: Each type of possible action during the processing of a declaration is related to a number of interventions. Make a report on this quantity.
+61_18: When processing declarations, several actions are possible. How many times was each of these actions performed?
+61_19: Make a report reporting the number of interventions that have already been registered for each type of possible action in processing declarations.
+61_20: Report the number of interventions that were carried out in the declarations, considering each type of possible action.
+61_21: How many interventions have already been recorded for each type of possible action on declarations?
+61_22: Recover the number of interventions that were carried out in the declarations, considering each type of possible action.
+61_23: How many interventions were made in the declarations, considering each type of possible action?
+62_0: Present the cost of each event and the activity performed, ordered by the cost of the event.
+62_1: Present the cost of the event and associated activity, ordered by the cost of the event.
+62_2: Present the cost of each event and the corresponding activity performed, ordered by the cost of the event.
+62_3: List the cost of each event and associated activity, ordered by the cost of the event.
+62_4: List the cost of each event and the activity performed, ordered by the cost of the event.
+62_5: List the cost of each event and the corresponding activity performed, ordered by the cost of the event.
+62_6: Create a report that informs how much each intervention carried out on the declarations costs, adding information about which action each intervention refers to. Present the report in order from highest to lowest cost already recorded.
+62_7: Create a report on the costs of performing declaration processing tasks, presenting the information from highest to lowest cost.
+63_0: List all events, and their attributes, that are associated with 'permit' activities.
+63_1: List all events, and their corresponding attribute values, that are associated with the 'permit' activity.
+63_2: Retrieve all events, and their attributes, that are associated with the 'permit' activity.
+63_3: What are the events associated with performing the 'permit' activity? List all event attributes.
+63_4: What are the events associated with performing the 'permit' activity? List all attributes of each event.
+63_5: What are the events, and their corresponding attribute values, referring to the 'permit' activity?
+63_6: The performances of the 'permit' activity are associated with which events? How are these events characterized?
+63_7: What characterizes the events associated with the performance of the 'permit' activity?
+63_8: Show the attribute values of the events associated with the 'permit' activity.
+63_9: The 'permit' activity is associated with which events? List the attribute values of these events.
+63_10: What characterizes the interventions that generate a permit during the processing of a declaration?
+63_11: What information is associated with permit interventions, within the processing of a declaration?
+64_0: What is the highest event cost amount in the event log?
+64_1: What is the highest event cost amount in the log?
+64_2: What is the highest cost in the event log?
+64_3: Report the highest cost already recorded in the event log.
+64_4: Report the highest cost in the event log.
+64_5: What was the amount spent on the most expensive intervention already recorded during the processing of declarations?
+65_0: What were the cases in which both the 'Sara' and 'Thomas' resources participated?
+65_1: Retrieve cases where both the 'Sara' resource and the 'Thomas' resource participated.
+65_2: List the identifiers of the cases in which the 'Sara' and 'Thomas' resources acted.
+65_3: The 'Sara' and 'Thomas' resources both participated in which cases?
+65_4: The 'Sara' and 'Thomas' resources participated together in which cases?
+65_5: What are the declarations in which both Sara and Thomas participated together?
+66_0: How many activities named 'declaration rejected by administration' were performed by each resource?
+66_1: How many activities marked as 'declaration rejected by administration' were performed by each resource?
+66_2: Report how many activities named 'declaration rejected by administration' were performed by each resource.
+66_3: Report how many activities marked as 'declaration rejected by administration' were performed by each resource.
+66_4: How many instances of performing the activity named 'declaration rejected by administration' were the responsibility of each resource?
+66_5: How many times was each resource responsible for carrying out an activity named 'declaration rejected by administration'?
+66_6: Report the number of times each resource was associated with the performance of an activity named 'declaration rejected by administration'.
+66_7: Report how many instances of executing the activity named 'declaration rejected by administration' were the responsibility of each resource.
+66_8: For each resource, retrieve information about how many times it has been associated with performing the 'declaration rejected by administration' activity.
+66_9: How many events associated with a 'declaration rejected by administration' were the responsibility of each resource?
+66_10: How many times was each employee responsible for rejecting a declaration performing the role of administrator?
+67_0: Report how many activities named 'declaration rejected by administration' were performed by each resource in each case.
+67_1: How many activities marked as 'declaration rejected by administration' were performed by each resource in each case?
+67_2: Report how many activities marked as 'declaration rejected by administration' were performed by each resource in each case.
+67_3: How many instances of performing the activity named 'declaration rejected by administration' were the responsibility of each resource in each case?
+67_4: How many times was each resource responsible for carrying out an activity named 'declaration rejected by administration' in each case?
+67_5: Report the number of times each resource was associated with the performance of an activity named 'declaration rejected by administration', in each case.
+67_6: Report how many instances of carrying out the activity named 'declaration rejected by administration' were the responsibility of each resource in each case?
+67_7: For each resource, retrieve information about how many times it was associated with executing the 'declaration rejected by administration' activity in each case.
+67_8: How many events associated with a 'declaration rejected by administration' were the responsibility of each resource in each case?
+67_9: How many times was each employee responsible for rejecting a declaration, performing the role of administrator, in each of the declarations already processed?
+68_0: What is the average event cost for activities other than 'start trip' and 'end trip'?
+68_1: What is the average cost of events associated with activities other than 'start trip' and 'end trip'?
+68_2: What is the mean cost of events associated with activities other than 'start trip' and 'end trip'?
+68_3: Report the average cost of events associated with activities other than 'start trip' and 'end trip'.
+68_4: Report the mean cost of events associated with activities other than 'start trip' and 'end trip'.
+68_5: Calculate the average cost of events associated with activities other than 'start trip' and 'end trip'.
+68_6: Calculate the mean cost of events associated with activities other than 'start trip' and 'end trip'.
+68_7: What is the average cost of events associated with activities that do not relate to the labels 'start trip' and 'end trip'?
+68_8: What is the average cost of events associated with activities that are not named 'start trip' and 'end trip'?
+68_9: How much, on average, does an intervention cost, other than those that indicate the beginning or end of a trip?
+69_0: Retrieve the attributes of the five highest-cost events.
+69_1: Select the five events with the highest costs. List all attributes of these events.
+69_2: What is the information on the 5 highest-cost events?
+69_3: List the attribute values of the five highest-cost events.
+69_4: Select the five highest-cost events. List all attributes of these events.
+69_5: Recover the attributes of the five highest-cost events.
+69_6: List the values of the attributes of the five highest-cost events.
+69_7: Create a report that organizes data relating to the five most expensive interventions already recorded.
+69_8: Select the five events with the highest costs.
+69_9: What are the 5 highest-cost events?
+69_10: Recover the five highest-cost events.
+69_11: List five higher-cost events.
+69_12: Select the five highest-cost events.
+69_13: Recover the five highest-cost events.
+69_14: List the five highest-cost events.
+69_15: What were the five most costly interventions in the processing of declarations?
+71_0: What are the cases that have more than one event.
+71_1: Retrieve the cases that have more than one event.
+71_2: Report which cases have more than one event.
+71_3: In which cases was more than one event performed?
+71_4: In which cases did more than one event occur?
+71_5: Which declarations have undergone more than one intervention?
+72_0: In which cases is there more than one occurrence of activity?
+72_1: Retrieve the cases that have more than one instance of activity.
+72_2: Report which cases have more than one occurrence of activity.
+72_3: In which cases was there more than one occurrence of activity?
+72_4: In which declarations did an action have to be performed more than once?
+73_0: What events, and their attributes, occurred on the dates '2018-10-01' and '2018-10-02'?
+73_1: Which records occur on the dates '2018-10-01' and '2018-10-02'?
+73_2: Retrieve the events, and their attributes, that occurred on the dates '2018-10-01' and '2018-10-02'.
+73_3: List the events, and their attributes, that occurred on the dates '2018-10-01' and '2018-10-02'.
+73_4: Report the events, and their attributes, that occurred on the dates '2018-10-01' and '2018-10-02'.
+73_5: On the dates '2018-10-01' and '2018-10-02' which events occurred. List all their attributes.
+73_6: What is the information regarding the events that occurred on the dates '2018-10-01' and '2018-10-02'?
+73_7: Retrieve data relating to events that occurred on the dates '2018-10-01' and '2018-10-02'.
+73_8: What happened in the declarations between '2018-10-01' and '2018-10-02'?
+73_9: What events, and their attributes, occurred on October first, 2018 and October second, 2018?
+73_10: Retrieve the events, and their attributes, that occurred on the dates of October first, 2018 and October second, 2018.
+73_11: List the events, and their attributes, that occurred on the dates of October first, 2018 and October second, 2018.
+73_12: Report the events, and their attributes, that occurred on the dates of October first, 2018 and October second, 2018.
+73_13: On dates October first, 2018 and October second, 2018 which events occurred? List all their attributes.
+73_14: What is the information regarding the events that occurred on the dates of October first, 2018 and October second, 2018?
+73_15: Retrieve data relating to events that occurred on the dates of October first, 2018 and October second, 2018.
+73_16: What happened in the declarations between October first and second, 2018?
+73_17: What interventions were carried out between October first and October second of the year 2018?
+73_18: What was done in the declarations between October first, 2018 and October second of the same year?
+75_0: Retrieve all events, and their attributes, that were performed by resources whose name starts with the letter 'M'.
+75_1: What events were performed by resources whose name starts with the letter 'M'? List the events with all their attributes
+75_2: List all events, and their attributes, that were performed by resources whose name starts with the letter 'M'.
+75_3: Report all events, and their attributes, that were performed by resources whose name starts with the letter 'M'.
+75_4: Retrieve all attributes of events that were performed by resources whose name starts with the letter 'M'.
+75_5: What are the values of the attributes that characterize the events performed by resources whose name starts with the letter 'M'.
+75_6: What have employees with names starting with the letter 'M' been doing during the processing of declarations?
+75_7: What were the interventions carried out by employees whose name starts with 'M'? Report everything about these interventions.
+76_0: Which activities were performed more than five times?
+76_1: What activities have more than 5 records?
+76_2: What activities appear more than five times in the event log?
+76_3: Which activities have more than five occurrences in the event log?
+76_4: Which activities are associated with more than five events?
+76_5: Retrieve the names of activities that have more than five occurrences in the event log.
+76_6: Retrieve the names of activities that are associated with more than five events.
+76_7: Retrieve the names of activities that appear more than five times in the event log.
+76_8: Report activities that have more than five occurrences in the event log.
+76_9: Report activities that are associated with more than five events.
+76_10: Report activities that appear more than five times in the event log.
+76_11: Which actions were performed more than five times during the processing of declarations?
+77_0: Which activities were performed more than three times per case?
+77_1: What activities appear more than three times in a single case?
+77_2: Which activities have more than three occurrences per case?
+77_3: Which activities are associated with more than three events per case?
+77_4: Retrieve the names of activities that have more than three occurrences in a single case.
+77_5: Retrieve the names of activities that are associated with more than three events in a single case.
+77_6: Retrieve the names of activities that appear more than three times per case.
+77_7: Report activities that have more than three occurrences per case.
+77_8: Report activities that are associated with more than three events per case.
+77_9: Report activities that appear more than three times in a single case.
+77_10: Analyze the declarations and check which actions were performed more than three times in each of them.
+78_0: How many events occurred for the 'declaration 56300' case?
+78_1: What is the size of the trace associated with the 'declaration 56300' case?
+78_2: How many events occurred in the 'declaration 56300' case?
+78_3: How many events were performed in the 'declaration 56300' case?
+78_4: How many events does the 'declaration 56300' case have?
+78_5: How many events were performed for the 'declaration 56300' case?
+78_6: Report how many actions happened in declaration 56300.
+79_0: Which activities were performed more than once before 01/10/2017, and how many times were they performed?
+79_1: Report the activities that were performed more than once before 01/10/2017, and how many times they were performed.
+79_2: List the activities that were performed more than once before 01/10/2017 and how many times they were performed.
+79_3: Retrieve activities that were performed more than once before 01/10/2017, and how many times they were performed.
+79_4: If any activity was performed more than once before 01/10/2017, retrieve the name of the activity and how many times it was performed.
+79_5: If any activity was performed more than once before 01/10/2017, list the name of the activity and how many times it was performed.
+79_6: If any activity was performed more than once before 01/10/2017, report the name of the activity and how many times it was performed.
+79_7: Report the activities that were performed more than once before 01/10/2017, and the number of times they were performed.
+79_8: List the activities that were performed more than once before 01/10/2017, and the number of times they were performed.
+79_9: What actions were performed to process the declarations, before 01/10/2017, and how many times were they performed?
+79_10: Create a report stating how many times actions that were performed more than once occurred for processing performed before January 10, 2017.
+80_0: In how many cases did each resource act?
+80_1: In how many process instances did each resource act?
+80_2: Report the number of cases in which each resource acted.
+80_3: Report the number of cases each resource worked on.
+80_4: Report the number of cases in which each resource was involved.
+80_5: Report the number of cases to which each resource was allocated.
+80_6: In how many cases did each resource act?
+80_7: How many cases was each resource allocated to?
+80_8: In how many process instances did each resource act?
+80_9: How many process instances was each resource associated with?
+80_10: How many declarations has each of our collaborators already worked on?
+81_0: How many events did each resource act on?
+81_1: Retrieve the number of times a resource has been allocated.
+81_2: How many times did a resource act?
+81_3: How many events was each resource associated with?
+81_4: What is the number of occurrences of a resource acting?
+81_5: Calculate the number of times a resource has been associated with executing activities.
+81_6: Report the number of occurrences of a resource acting.
+81_7: How many interventions have been carried out by each employee?
+82_0: What are the cases that the Thomas, Diana, or Sara resource worked on?
+82_1: List all cases that one of the following resources worked on: Thomas, Diana, or Sara.
+82_2: Retrieve the identifiers of the cases in which any of the following resources acted: Thomas, Diana, or Sara.
+82_3: What are the cases in which one of the following resources acted: Thomas, Diana, or Sara?
+82_4: What declarations were made by Thomas, Diana, or Sara?
+83_0: In how many cases that occurred between 5/1/2017 and 6/1/2017 is each resource associated?
+83_1: Report the number of cases that occurred between 5/1/2017 and 6/1/2017 with which each resource was associated.
+83_2: List the number of cases that occurred between 5/1/2017 and 6/1/2017 with which each resource was associated.
+83_3: Retrieve the number of cases that occurred between 5/1/2017 and 6/1/2017 with which each resource was associated.
+83_4: Calculate the number of cases that occurred between 5/1/2017 and 6/1/2017 with which each resource was associated.
+83_5: How many process instances that occurred between 5/1/2017 and 6/1/2017 is each resource associated with?
+83_6: In how many process instances, performed between 5/1/2017 and 6/1/2017, is each resource associated?
+83_7: In how many cases, performed between 5/1/2017 and 6/1/2017, is each resource associated?
+83_8: How many declarations processed between 5/1/2017 and 6/1/2017 were each employee allocated?
+84_0: How many cases, whose event occurred between 5/1/2017 and 6/1/2017, is each resource associated with?
+84_1: How many cases was each resource associated with, considering events that occurred between 5/1/2017 and 6/1/2017?
+84_2: How many declarations, that went through any intervention between 5/01/2017 and 6/01/2017, were each of our employees allocated to?
+85_0: List the activities and resources associated with events, disregarding those in which the Joshua and Teresa resources are involved.
+85_1: Report the activities and resources associated with events, disregarding those in which the Joshua and Teresa resources are involved.
+85_2: Retrieve the activity names and resource names associated with events, disregarding those in which the Joshua and Teresa resources are involved.
+85_3: I need to know what actions and employees were associated with interventions in the processing of the declarations that were not the responsibility of Joshua and Teresa.
+85_4: List all actions, and the respective responsible employee, associated with interventions in the declarations management process that were not under the responsibility of Joshua and Teresa.
+86_0: List the cases in which the 'start trip' or 'end trip' activities occurred and in which the 'request payment' and 'payment handled' activities did not occur.
+86_1: List the process instances in which 'start trip' or 'end trip' activities occurred, however, 'request payment' and 'payment handled' activities did not occur.
+86_2: Report the cases in which 'start trip' or 'end trip' activities occurred and in which 'request payment' and 'payment handled' activities did not occur.
+86_3: Retrieve the process instances in which the 'start trip' or 'trip end' activities occurred but the 'request payment' and 'payment handled' activities did not occur.
+86_4: Retrieve the cases in which 'start trip' or 'end trip' activities occur but 'request payment' and 'payment handled' activities do not occur.
+86_5: Report all cases relating to activities started or completed for which payments have not yet been requested or made.
+86_6: What are the cases in which there was a record of the beginning of the trip or the end of the trip but there was no record of payment request and execution?
+86_7: In which instances of processes, marking the beginning or end of the trip, were the payment request and execution not observed?
+86_8: In which travel declarations marking the beginning or end of the trip were the payment request and execution not observed?
+86_9: Which trips have started or ended and payments have still not yet been requested or made?
+87_0: List all events that are not associated with resources.
+87_1: List events in which resources were not used or reported.
+87_2: What are the events that are not associated with resources?
+87_3: Retrieve events that are not associated with resources.
+87_4: List all events for which no resources are associated.
+87_5: What are the events that no resources have been associated with?
+87_6: Retrieve events with which no resource was associated.
+87_7: Make a report of all interventions in which employees were not allocated, or the allocation was not reported.
+88_0: Which cases had their first log record before March 2017?
+88_1: Which cases started before March 2017?
+88_2: In which cases did the first performance of activity occur before March 2017?
+88_3: Which process instances started before March 2017?
+88_4: Which process instances had their first log record before March 2017?
+88_5: In which process instances did the first activity performance occur before March 2017?
+88_6: Which declarations began to be processed before March 2017?
+88_7: Which declarations had the first intervention registered in the system before March 2017?
+88_8: For which declarations was there an intervention record before March 2017?
+88_9: Processing records began occurring before March 2017 for which declarations?
+89_0: Which cases were started with the performance of the 'start trip' activity in March 2017.
+89_1: In which cases was the 'start trip' activity carried out first and in the period from 3/01/2017 to 3/31/2017?
+89_2: What are the cases initiated by executing the 'start trip' activity in March 2017?
+89_3: List the identifiers of the cases in which the 'start trip' activity associated with the first event was carried out, necessarily in March 2017.
+89_4: Retrieve the process instances in which the 'start trip' activity was the first to be performed and within the period from 03/1/2017 to 03/31/2017. Report only the identifier of these process instances.
+89_5: List the identifiers of the process instances whose first event refers to the 'start trip' activity and occurred between 03/1/2017 and 03/31/2017.
+89_6: Which declarations started with the start of the trip information in March 2017?
+90_0: Which resources acted more than five times in the same case?
+90_1: List all resources that acted more than five times in the same case.
+90_2: Which resources acted more than five times in the same case?
+90_3: If a resource acted more than five times in the same case, list the name of the resource.
+90_4: If a resource has acted on more than five events in the same case, list the name of this resource.
+90_5: List the resources that worked on executing more than five events in the same case.
+90_6: What resources were allocated to more than five events in the same case?
+90_7: Which resources acted more than five times on a declaration?
+90_8: Which resources acted more than five times on a single declaration?
+90_9: Which collaborators worked on more than five interventions in a single declaration?
+90_10: Which resources have more than 5 actions in a single declaration?
+91_0: Which activities appear most often in the event log?
+91_1: What are the most recurring activities in the log?
+91_2: What are the names of the activities that were performed most times in this business process?
+91_3: Report the name of the most frequent activities in this event log.
+91_4: What are the most common actions when processing declarations?
+92_0: Present, in descending order, the 10 resources that performed the most in the 'declaration final approved by supervisor' activity.
+92_1: Which 10 resources were most used in the 'declaration final approved by supervisor' activity? Considering from largest to smallest.
+92_2: I need to know who are the ten employees who most approved a declaration, definitively, using the supervisor position. The list must be presented from the employee most allocated to the activity to the employee least allocated.
+93_0: List the existing resources in the event log in descending order of the number of times each of them acted on the 'declaration final approved by supervisor' activity.
+93_1: List all resources in descending order considering the number of times each one was associated with the performance of the 'declaration final approved by supervisor' activity.
+93_2: Present a list of the resources that acted in carrying out the 'declaration final approved by supervisor' activity. Sort the list by the number of times each resource was associated with the activity.
+93_3: Present the resources present in the event log in descending order according to the number of times each one acted on the 'declaration final approved by supervisor' activity.
+93_4: I need to know who the employees are that definitively approved a declaration, using the position of supervisor. The list must be presented from the employee most allocated to the activity to the employee least allocated.
+94_0: In how many cases were the Eugene or Marie resources associated with the performance of the 'declaration approved by budget owner' activity?
+94_1: In how many cases was there an association between the Eugene or Marie resources and the performance of the 'declaration approved by budget owner' activity?
+94_2: Report the number of cases in which the 'declaration approved by budget owner' activity was associated with the Eugene or Marie resources.
+94_3: In how many cases was the 'declaration approved by budget owner' activity associated with the Eugene or Marie resources?
+94_4: In how many cases were events related to the 'declaration approved by budget owner' activity associated with the Eugene or Marie resources?
+94_5: How many process instances was the 'declaration approved by budget owner' activity associated with the Eugine resource or the Marie resource?
+94_6: Report the number of cases in which the 'declaration approved by budget owner' activity was associated with the Eugine or Marie resources.
+94_7: Eugene or Marie approved how many declarations in their role as budget holders?
+94_8: How many declarations were approved by Eugene or Marie, as budget holders?
+95_0: Which activities that exist in the 'declaration 49464' case do not occur in the 'declaration 76667' case?
+95_1: List all activities that were performed in the 'declaration 49464' case but were not performed in the 'declaration 76667' case.
+95_2: Retrieve the names of activities that were part of the 'declaration 49464' case and were not part of the 'declaration 76667' case.
+95_3: What occurred in declaration 49464 that did not occur in declaration 76667?
+96_0: For each resource that acted in the 'declaration submitted by employee' activity more than twice, report the number of times this action occurred.
+96_1: Which resources worked on the 'declaration submitted by employee' activity more than twice? Also, list the performance count of each resource in this activity.
+96_2: Which resources acted in the 'declaration submitted by employee' activity more than twice? Also, list the performance count of each resource in this activity.
+96_3: Report how many times each resource acted in the 'declaration submitted by employee' activity if this occurred more than twice.
+96_4: If a resource acted more than twice in the 'declaration submitted by employee' activity, report the name of the resource and the number of times this action occurred.
+96_5: If a resource has acted in more than twice in event relating to the 'declaration submitted by employee' activity, report the name of this resource and the number of events in which this action occurred.
+96_6: Submit a report with the employee's name and the number of times they requested a declaration if they did so more than twice.
+97_0: Which cases went through the 'request payment' activity between '2017-05-01' and '2017-05-10'?
+97_1: Which cases went through the 'request payment' activity in the first ten days of May 2017?
+97_2: Which process instances performed the 'request payment' activity in the first ten days of May 2017?
+97_3: Report the identifier of the cases that have a record of the performance of the 'request payment' activity between '2017-05-01' and '2017-05-10'.
+97_4: Which cases went through the 'request payment' activity between May 1, 2017 and May 10, 2017?
+97_5: Retrieve the identifiers of cases where events associated with the performance of the 'request payment' activity occurred between '2017-05-01' and '2017-05-10'.
+97_6: Payment requests were registered between '2017-05-01' and '2017-05-10' for which declarations?
+97_7: For which declarations was the payment request made between May 1 and 10, 2017?
+98_0: How many resources worked on each case?
+98_1: How many 'resource' identifiers are there for each 'case' identifier?
+98_2: Report how many resources were needed to execute each case.
+98_3: Report the number of resources associated with each case.
+98_4: How many resources worked on each process instance?
+98_5: Retrieve information about the number of resources that worked on executing each process instance.
+98_6: How many resources were needed to execute each case?
+98_7: How many employees were needed to process each of the declarations?
+99_0: Which cases were entirely handled by Christopher?
+99_1: Which cases were fully handled by Christopher?
+99_2: Which instances of processes were entirely Christopher's responsibility?
+99_3: In which cases did the Christopher resource act and was responsible for carrying out all activities?
+99_4: Report the cases in which the Christopher resource acted as the sole responsible party.
+99_5: Which process instances were entirely handled by the collaborator Christopher?
+99_6: Which process instances were fully handled by the employee Christopher?
+99_7: Which declarations were the sole responsibility of the employee Christopher?
+100_0: Which cases were entirely handled by the same resource?
+100_1: Which process instances were entirely handled by the same resource?
+100_2: Which cases were fully handled by a single resource?
+100_3: List the cases in which all activities were performed by the same resource.
+100_4: List the cases in which all events were associated with the same resource.
+100_5: Which process instances were entirely the responsibility of the same collaborator?
+100_6: Report which process instances were performed by the same employee.
+100_7: Make a list of all declarations that were the responsibility of just one employee.
+101_0: Which cases recorded multiple events in one day?
+101_1: Which cases recorded more than one event in one day?
+101_2: Retrieve all cases that went through more than one event record in a day.
+101_3: Report cases that are associated with multiple events in one day.
+101_4: List the cases for which more than one event was recorded on the same day.
+101_5: List the declarations that went through more than one intervention on the same day.
+101_6: Which declarations went through multiple interventions in a single day?
+102_0: How many null cost events are associated with each resource in each case?
+102_1: For each case, how many null cost events are there associated with each resource?
+102_2: How many null cost events are there for each case, associated with each resource?
+102_3: For each process instance, how many null cost events are there associated with each resource?
+102_4: List how many null cost events are associated with each resource in each of the process instances.
+102_5: Report how many null cost events there are associated with each employee in each of the process instances recorded in the log.
+102_6: Make a report stating how many interventions by each employee did not report costs in the processing of declarations.
+102_7: How many interventions, per employee, did not report costs during the processing of declarations?
+103_0: What events are associated with the 'permit rejected by director' activity?
+103_1: What are the events associated with the 'permit rejected by director' activity?
+103_2: List the events associated with the 'permit rejected by director' activity.
+103_3: Report the events related to the performance of the 'permit rejected by the director' activity.
+103_4: Retrieve all events that concern the performance of the 'permit rejected by director' activity.
+103_5: What are the events arising from the performance of the 'permit rejected by director' activity?
+103_6: What are the interventions recorded in the processing of declarations regarding permit rejected by a director?
+103_7: What are the interventions of a director rejecting a permit?
+104_0: What is the total cost of events per day?
+104_1: What is the total cost of all events occurred per day?
+104_2: Report the total cost of all events occurred per day.
+104_3: List for each day, the total cost of the events occurred that day.
+104_4: For each day, calculate the total cost of events occurred that day.
+104_5: Recover the sum of the costs of all events occurred each day.
+104_6: Calculate the sum of events for each day recorded in the event log.
+104_7: What is the total cost of the declaration handling process each day?
+105_0: Which activities cost more than 1000 and were carried out under the responsibility of a supervisor or director?
+105_1: Of the activities that require a supervisor or director, which ones cost more than 1000?
+105_2: Report which activities cost more than 1000 and require a supervisor or director associated with their performance.
+105_3: List the activities associated with supervisors or directors and whose performance cost more than 1000.
+105_4: Which actions have a cost greater than 1000 and require a supervisor or director?
+105_5: Of the activities that require a supervisor or director, which ones cost more than 1000?
+106_0: What is the number of events per case?
+106_1: What is the amount of events per case?
+106_2: How many events were performed in each case?
+106_3: How big is each case in terms of number of events?
+106_4: List the number of events associated with each case.
+106_5: Retrieve how many events were performed in each process instance.
+106_6: How many interventions were carried out in the processing of each declaration?
+107_0: How many tasks were assigned to each resource?
+107_1: How many tasks were assigned per resource?
+107_2: How many activities were performed per resource?
+107_3: How many activities were associated with each resource?
+107_4: Report the number of activities associated with each resource present in the event log.
+107_5: For each resource, list the number of tasks associated with it.
+107_6: How many actions were determined for each employee to perform?
+108_0: What cases were assigned to Alexis to solve and how many activities is she involved in per case?
+108_1: In which cases are there activities assigned to Alexis and how many activities is she involved in in each of these cases?
+108_2: Which cases did Alexis work on and, for each case, report how many activities were associated with her in each case.
+108_3: Report which cases Alexis worked on and also how many activities were associated with her in each of them.
+108_4: List the identifier of the cases in which Alexis appears as a resource and report how many activities she worked on in these cases.
+108_5: How many activities were assigned to Alexis in each of the cases in which she worked and what were these cases?
+108_6: What tasks were associated with Alexis in each of the process instances in which she worked and what are these instances?
+108_7: The collaborator Alexis worked on which declarations and how many actions did she engage in for each declaration in this set of declarations?
+109_0: How many cases went through the 'permit final approved by supervisor' activity before going through the 'start trip' activity?
+109_1: In how many cases did the 'permit final approved by supervisor' activity occur before the 'start trip' activity?
+109_2: In how many cases does the 'start trip' activity eventually follow the 'permit final approved by supervisor' activity?
+109_3: In how many process instances does an event relating to the 'permit final approved by supervisor' activity occur before the event relating to the 'start trip' activity?
+109_4: In how many cases does the 'start trip' activity occur after the 'permit final approved by supervisor' activity occurs?
+109_5: Report the number of declarations in which the start of the trip occurs after the permit with final approval from the supervisor.
+109_6: In how many declarations does the permit with final approval from the supervisor record appear before the start of the trip record?
+109_7: How many declarations were allowed with final approval from the supervisor before the start of the trip?
+110_0: Which events associated with the 'end trip' activity did not occur on December 12, 2017?
+110_1: What events associated with the 'end trip' activity occurred before or after December 12, 2017?
+110_2: List the event related to the performance of the 'end trip' activity that occurred before or after December 12, 2017.
+110_3: List the event related to the performance of the 'end trip' activity, considering only those that occurred before or after December 12, 2017.
+110_4: List the events that did not occur on December 12, 2017 and that are a result of the performance of the 'end trip' activity.
+110_5: What events associated with the 'end trip' activity did not take place on December 12, 2017?
+110_6: Which actions indicating the end of a trip were not recorded on the twelfth of December, twenty seventeen?
+111_0: How many events did each resource act on?
+111_1: How many events did each resource work on?
+111_2: How many events were associated with each resource?
+111_3: How many activities did each person responsible perform?
+111_4: How many events did each person in charge act in?
+111_5: How many times did each responsible person act in processing declarations?
+111_6: How many actions were the responsibility of each person involved in the trip declaration process?
+112_0: In how many activities has each resource already acted?
+112_1: In how many activities has each resource worked?
+112_2: How many activities were associated with each of the resources?
+112_3: List the number of activities that have already been associated with each of the resources.
+112_4: For each resource, report the number of activities that have already been associated with it.
+112_5: How many actions has each employee already acted in?
+113_0: In which activities has the Virginia resource not yet acted?
+113_1: List the label of activities that the Virginia resource has not yet acted on.
+113_2: What are the activities that Virginia has not yet been associated with?
+113_3: For which activities is there still no record of employee Virginia’s activities?
+113_4: Retrieve the label of activities that have not yet been associated with the employee Virginia.
+113_5: In which actions does Virginia not yet have experience?
+114_0: What is the average cost of cases that went through the 'rejected' activity?
+114_1: Calculate the average cost of cases that went through the 'rejected' activity.
+114_2: Calculate the average cost of cases that include at least one instance of the 'rejected' activity.
+114_3: Report the mean cost of cases that include at least one instance of the 'rejected' activity.
+114_4: Filter the cases that went through the 'rejected' activity and then calculate the mean of their costs.
+114_5: What is the mean cost in travel declaration processes that were rejected?
+114_6: What is the average cost of travel declarations that had some phase of the process rejected?
+115_0: What was the duration of the 'declaration approved by supervisor' activity in each case?
+115_1: How long did the 'declaration approved by supervisor' activity last in each case?
+115_2: How long did the 'declaration approved by supervisor' activity last in each process instance?
+115_3: For each process instance, report the duration of the 'declaration approved by supervisor' activity.
+115_4: Report the duration of the 'declaration approved by supervisor' activity in each process instance.
+115_5: What is the performance of actions that are associated with the declaration being approved by the supervisor?
+115_6: What was the time spent for a declaration to be approved by the supervisor?
+116_0: How many times has the 'declaration rejected by pre-approver' activity been performed?
+116_1: How many occurrences of the 'declaration rejected by pre-approver' activity are there in the event log?
+116_2: How many occurrences of the 'declaration rejected by pre-approver' activity were recorded in the event log?
+116_3: How many times did the 'declaration rejected by pre-approver' activity occur?
+116_4: Report the number of times the 'declaration rejected by pre-approver' activity was performed.
+116_5: List the number of occurrences of the 'declaration rejected by pre-approver' activity.
+116_6: How many times has a declaration been rejected at the pre-approval stage?
+116_7: How many times has the pre-approver rejected a declaration?
+117_0: List the cases and the date of occurrence of the 'end trip' activity in each case, ordering the answer in relation to the resource responsible for the activity.
+117_1: Return the case identifier and the date the 'end trip' activity was performed for this case, ordering the response according to the resource associated with performing the activity.
+117_2: Provide a list, ordered by resource, of cases in which the 'end trip' activity occurred and the dates of events associated with these occurrences.
+117_3: Which cases went through the 'end trip' activity and on what date? Sort the response by resource associated with the occurrence of the activity.
+117_4: Which declarations have already registered the end of the trip and when was this registration? Order the list according to the name of the employee responsible for registering the end of the trip for that declaration.
+117_5: Make a report in which we have the code of the processed declaration and the date on which the trip ended in that declaration. Sort the report according to the name of the employee who was responsible for recording the end of the trip in the system.
+118_0: How many events were recorded for each case?
+118_1: How many events were recorded for each process instance?
+118_2: How many events were performed in each case?
+118_3: How many events were performed for each process instance?
+118_4: List the number of events associated with each case.
+118_5: List the number of events recorded for each case.
+118_6: How many actions were taken for each travel declaration?
+118_7: How many interventions were necessary to process each travel declaration?
+119_0: How many cases went through the 'end trip' activity between 05/02/2017 and 05/12/2017?
+119_1: Report the number of process instances that went through the 'end trip' activity between 05/02/2017 and 05/12/2017.
+119_2: In how many cases was the 'end trip' activity carried out between the second of May, 2017 and the twelfth of May, 2017?
+119_3: How many process instances include the performance of the 'end trip' activity between the second of May, 2017 and the twelfth of May, 2017?
+119_4: In how many cases did the 'end trip' activity occur considering the time interval of 05/02/2017 and 05/12/2017?
+119_5: How many cases went through the 'end trip' activity considering the time interval of 05/02/2017 and 05/12/2017?
+119_6: How many trips ended between 05/02/2017 and 05/12/2017?
+119_7: In how many declarations did the end of the trip occur between 05/02/2017 and 05/12/2017?
+120_0: Report the case identifier, resource, event identifier and completion date of occurrences of the 'send reminder' activity, considering the chronological order of completion.
+120_1: Retrieve the case identifier, resource, event identifier and completion date of occurrences of the 'send reminder' activity. Sort the information in chronological order by completion date.
+120_2: Report, in chronological order of completion, the cases that include the 'send reminder' activity, the associated resources, the associated event identifiers and the activity completion date.
+120_3: The 'send reminder' activity appears in which cases, with which resources, in which events, and with what completion date? Sort the information in chronological order by completion date.
+120_4: For cases where the 'send reminder' activity occurs, list in chronological order of completion: case identifier, event identifier, associated resource and completion date of the activity.
+120_5: In chronological order of completion, which cases include the 'send reminder' activity and what are the corresponding resource, event ID, and completion date of this activity?
+120_6: Make a report providing the code of the declaration process in which it was necessary to send reminders. Also, provide the resource that recorded this submission, the identifier of this submission occurrence and completion date, ordering the result by completion date.
+121_0: List all resources in alphabetical order and without repetitions.
+121_1: List all resources alphabetically and without duplicates.
+121_2: List all distinct resources in alphabetical order.
+121_3: What resources are recorded in the event log? List in alphabetical order and without repetitions.
+121_4: Retrieve, in alphabetical order and without repetitions, all resources recorded in the log.
+121_5: List, in alphabetical order and without repetitions, the names of the resources recorded in the event log.
+121_6: List the names of all employees who have worked on declaration processes, in alphabetical order.
+122_0: What resources are associated with more than two hundred cases?
+122_1: What resources are associated with more than two hundred process instances?
+122_2: What resources are associated with more than two hundred travel declarations?
+122_3: List the names of resources associated with more than two hundred travel declarations.
+122_4: List the names of people associated with more than two hundred travel declarations.
+122_5: List the names of employees associated with more than two hundred travel declarations.
+122_6: What resources have more than 200 travel declarations?
+123_0: How many resources appear in the event log?
+123_1: How many resources are recorded in the event log?
+123_2: How many employees are associated with handling declarations?
+123_3: How many people are associated with handling declarations?
+123_4: How many people are associated with activities in the event log?
+123_5: How many people are associated with performing activities in the event log?
+123_6: How many people were responsible for performing activities in the declaration management process?
+123_7: How many people were responsible for handling declarations?
+123_8: How many employees have already been associated with declaration handling actions?
+124_0: What are the activities that contain the word 'declaration' in their name?
+124_1: Which activities contain the word 'declaration' in their label?
+124_2: Which activities contain the word 'declaration' in their identifier?
+124_3: Retrieve activities that contain the word 'declaration' in their name.
+124_4: List the activities that contain the word 'declaration' in their name.
+124_5: I need to know which actions are being registered with the word 'declaration' in their name.
+124_6: What different actions are registered with a name that contains the word 'declaration' in each travel declaration?
+124_7: List the actions that are registered in the system with a label that contains the word 'declaration'.
+125_0: What is the mean cost related to performing each activity?
+125_1: How much does it cost, on average, to perform each activity?
+125_2: On average, how much would each activity cost?
+125_3: For each activity, what is the mean cost of performing it?
+125_4: What is the mean cost of performances grouped by activity?
+125_5: Report the cost, on average, of performing each activity.
+125_6: Retrieve the average cost of performing each activity.
+125_7: Find the mean cost of performing each of the activities.
+125_8: What is the mean cost of each type of action required to process travel declarations?
+126_0: How many cases have no cost?
+126_1: How many process instances have no cost?
+126_2: How many cases have no costs?
+126_3: How many cases had no costs?
+126_4: How many process instances had no cost?
+126_5: In how many cases do all events have null cost?
+126_6: How many cases have only events without costs?
+126_7: How many declarations did the costs not reported to the university?
+126_8: How many declarations have no cost?
+127_0: What activities involve 'permit' or 'declaration'?
+127_1: What activities involve a permit or declaration?
+127_2: Which of the activities involve 'permit' or 'declaration' actions?
+127_3: Which of the activities in the log involve 'permit' or 'declare' actions?
+127_4: What activities have 'permit' or 'declaration' in their identifier?
+127_5: What activities have 'permit' or 'declaration' in their name?
+127_6: List the activities that contain 'permit' or 'declaration' in their name.
+127_7: Retrieve activities that contain 'permit' or 'declaration' in their identifier name.
+127_8: What are the actions related to permits and explicit declarations in the declaration management process?
+128_0: How many times has the 'declaration rejected by director' activity been performed?
+128_1: How many occurrences of activities are classified as 'declaration rejected by director'?
+128_2: How many occurrences of activities are named as 'declaration rejected by director'?
+128_3: How many events are associated with the 'declaration rejected by director' activity?
+128_4: How many instances of 'declaration rejected by director' are there in the event log?
+128_5: How many instances of 'declaration rejected by director' are there in the process?
+128_6: How many times has an action of declaration of rejection of responsibility of the director been carried out?
+129_0: What is the mean cost of an event?
+129_1: What is the mean cost of an event in this event log?
+129_2: What is the mean cost associated with the events in this event log?
+129_3: What is the mean cost of performing an activity in this event log?
+129_4: What is the average cost of an event in this event log?
+129_5: What is the mean cost associated with events?
+129_6: What is the mean cost of performing an activity?
+129_7: What is the mean cost amount associated with events?
+129_8: What is the mean cost amount associated with this business process?
+129_9: What is the mean cost of the actions required to process a declaration?
+130_0: In how many different cases was each resource used?
+130_1: How many different cases was each resource associated with?
+130_2: How many cases was each resource associated with?
+130_3: Report the number of cases to which each resource was associated.
+130_4: Identify the number of cases each resource was associated with.
+130_5: Retrieve the number of cases to which each resource was associated.
+130_6: Each resource is associated with how many different cases?
+130_7: How many declarations has each employee already acted on?
+131_0: How many events were associated with Peter?
+131_1: How many events are linked to Peter?
+131_2: How many events involved Peter's work?
+131_3: What was the employee Peter's performance in terms of number of actions performed?
+132_0: Which people worked on more than three declarations?
+132_1: Which employees worked on processing more than three declarations?
+132_2: Which people worked on more than three cases?
+132_3: Which employees worked on more than three cases?
+132_4: Which people were associated with more than three process instances?
+132_5: Which employees were associated with more than three process instances?
+133_0: What are the cases that went through 'request payment' activities? Report the identifiers of these cases, ordering them increasingly by the number of events per case.
+133_1: Report the identifiers of cases that went through the 'request payment' activity. Sort the list ascendingly according to the number of events per case.
+133_2: Retrieve the identifiers of cases that went through any of the activities that contain 'request payment' in their identification. Order them increasingly by the number of events per case.
+133_3: What are the identifiers for cases that have undergone 'request payment' activities? Sort the list increasingly by the number of events per case.
+133_4: Sorting their identifiers increasingly by the number of events per case, retrieve the cases that went through 'request payment' activities.
+133_5: Ordering the respective identifiers in increasing order by the number of events per case, retrieve the cases that went through 'request payment' activities.
+133_6: I need a report that describes which declarations have already requested payment, with the list ordered from the declaration with the least activities performed to the declaration with the most activities performed.
+133_7: Make a list of the declarations in which the payment request was registered in the system. The list must be ordered from the declaration with the lowest number of actions to the declaration with the highest number of actions registered.
+134_0: What are the performance dates for the 'end trip' or 'declaration rejected by employee' activities? Order from oldest to newest.
+134_1: Extract the dates when cases went through the 'end trip' or 'declaration rejected by employee' activities, arranging them from oldest to newest
+134_2: Retrieve the dates on which the performance of the 'end trip' or 'declaration rejected by employee' activities were recorded, ordering from oldest to most recent.
+134_3: From oldest to most recent, what are the dates on which the performance of 'end trip' or 'declaration rejected by employee' activities were recorded?
+134_4: Ordering from oldest to most recent, what are the recording dates for the performance of 'end trip' or 'closed' activities?
+134_5: What are the dates on which performances of 'end trip' or 'declaration rejected by employee' activities were recorded? Order from oldest to newest.
+134_6: What were the dates on which there was a record of the end of the trip or a declaration rejected by an employee? Report the dates in ascending order.
+134_7: Make a report with all the dates of registration of an end of trip or rejection of a declaration by an employee. Sort the listing from oldest to newest.
+135_0: How many occurrences of activities were assigned to each resource? List alphabetically by resource.
+135_1: How many performances of activities were assigned to each resource? Order the answer alphabetically by resource name.
+135_2: How many activity performances were assigned to each resource? Order the answer alphabetically by the resource identifier name.
+135_3: Retrieve how many activity performances were assigned to each resource, ordering the answer alphabetically by the resource's identifying name.
+135_4: Retrieve the amount of activity performances assigned to each resource, ordering the response alphabetically by the resource's identifying name.
+135_5: Retrieve the number of activity performances that were assigned to each resource, ordering the response alphabetically by the resource's identifying name.
+135_6: How many occurrences of activity are there when grouped by resource? Order the answer alphabetically by resource name.
+135_7: Grouping by resource, how many activity occurrences are there? Order the answer alphabetically by resource name.
+135_8: Ordering alphabetically by resource name and grouping by resource, how many are the activity occurrences?
+135_9: How many times did each employee process the different declarations recorded in the system? Present this answer in alphabetical order of the employee's name.
+135_10: Considering an alphabetical list of employee names, present a report with the number of times each employee performed an action during the processing of a declaration.
+136_0: What are the events associated with activities whose name starts with the letter 'E'?
+136_1: Find all events that are associated with activities that start with the letter 'E'.
+136_2: Retrieve all events in which activities starting with the letter 'E' were performed.
+136_3: Retrieve all events that record the performance of activities starting with the letter 'E'.
+136_4: What are the events associated with the performance of activities starting with the letter 'E'?
+136_5: What are the events associated with the performance of activities starting with 'E'?
+136_6: List the processing actions for a declaration named with a label starting with the letter 'E'.
+136_7: What are the actions performed for activities whose label starts with the letter 'E'?
+137_0: Select the event identifier, activity performed, resource, and cost for events whose cost is between 50 and 400.
+137_1: Select events based on their cost being between 50 and 400. Display the identifier, activity performed, resource and cost associated with the event.
+137_2: Select the events with costs between 50 and 400 and report the respective event identifiers, activities carried out, resources and costs.
+137_3: Identify the events that cost are between 50 and 400 and, for each of them, report the event identifier, activity performed, resource and cost.
+137_4: Select events whose registered cost ranges from fifty to four hundred and report the respective event identifiers, activities carried out, resources and costs.
+137_5: What are the events whose cost is between 50 and 400? Report the event identifier, the activity carried out, the resource and the cost of each of them.
+137_6: What are the events whose cost recorded in the log is between 50 and 400? Report the event identifier, the activity performed, the resource and the cost of each of these events.
+137_7: Which events have a cost recorded in the log between 50 and 400? List them in terms of their respective event identifiers, activities performed, resources, and costs.
+137_8: For declaration processing actions that cost between 50 and 400, present their identifier, the activity associated with it, the responsible employee and its specific cost.
+138_0: What resources have already been associated with the 'declaration saved by employee' activity?
+138_1: What resources were associated with the 'declaration saved by employee' activity?
+138_2: Which employees registered a saved declaration?
+138_3: Which employees have already saved a declaration?
+139_0: Select the activities from the events that ended on '2018-04-12'.
+139_1: Report the activities whose performance ended on the twelfth of April, twenty eighteen.
+139_2: Select activities from events that ended on '2018-04-12'.
+139_3: Select the event activities that have '2018-04-12' as their end date.
+139_4: Retrieve activities for which any of their performances were recorded in an event that ended on '2018-04-12'.
+139_5: For which activities were performances registered that have '2018-04-12' as their end date?
+139_6: Which activities have '2018-04-12' as their end date for any of their performances?
+139_7: Which activities have '2018-04-12' as their end date for any of the events related to their performances?
+139_8: Report the name of the task associated with declaration processing actions completed on April 12, 2018.
+140_0: List the event identifier, associated activity, and performance end date, of all events associated with the 'permit final approved by supervisor' or 'declaration approved by supervisor' activities, ordered by end date.
+140_1: Identify the events corresponding to performances of the 'permit final approved by supervisor' or 'declaration approved by supervisor' activities and list the respective event identifiers, activity performed and performance end dates, ordering them by end dates.
+140_2: List the events associated with the 'permit final approved by the supervisor' or 'declaration approved by the supervisor' activities, stating the event identifier, the associated activity and the performance end date of each of them and ordering them by end date.
+140_3: What are the events corresponding to performances of the 'permit final approved by supervisor' or 'declaration approved by supervisor' activities? List the respective event identifiers, activities performed, and performance end dates, ordering them by end dates.
+140_4: What are the events corresponding to occurrences of the 'permit final approved by supervisor' or 'declaration approved by supervisor' activities? Sort the list by their respective end dates and report the event identifier, the activity performed and the performance end date for each of them.
+140_5: Which events correspond to occurrences of the 'permit final approved by supervisor' or 'declaration approved by supervisor' activities? Order them by their respective end dates, providing their event identifier, the activity performed and the performance end date.
+140_6: What are the records identifiers of final approval of a permit or approval of a declaration by a supervisor, what is the activity associated with each of these records, and what is the performance end date of these actions? Sort the report by performance end date.
+140_7: What is the action identifier, associated activity, and completion date that indicates final approval of a permit or indicates approval of a declaration by a supervisor? Present the information ordered according to the end date of the action performance.
+141_0: Select all events whose cost is not null.
+141_1: Select all tuples where the event cost is not null.
+141_2: Select all lines where there is an associated cost.
+141_3: Select all tuples where there is an associated cost.
+141_4: Select all events that have an associated cost.
+141_5: Retrieve all information about events that have an associated cost.
+141_6: Retrieve all information about events that have a cost.
+141_7: Report all actions carried out during the processing of each declaration, which costs are not null.
+142_0: How many performances of the 'permit final approved by director' activity were recorded in the log?
+142_1: How many times has the 'permit final approved by director' activity been performed?
+142_2: Report the number of times the 'permit final approved by director' activity was performed.
+142_3: Report the number of times the performance of the 'permit final approved by director' activity was recorded.
+142_4: How many events are there related to the performance of the 'permit final approved by director' activity?
+142_5: How many events are recorded related to the performance of the 'permit final approved by director' activity?
+142_6: How many times has the performance of the 'permit final approved by director' activity been recorded?
+142_7: What is the number of times the performance of the 'permit final approved by director' activity was recorded?
+142_8: Retrieve the number of times the performance of the 'permit final approved by director' activity was recorded
+142_9: Retrieve the number of times events related to the performance of the 'permit final approved by a director' activity were recorded.
+142_10: How many times has the processing of declarations required a final permit to be granted by a director?
+142_11: How many times has a final permit been approved by a director?
+143_0: Retrieve the performance moments of the 'start trip' activity carried out by resources whose name ends with 's'.
+143_1: At what moments were the 'start trip' activities performed by resources whose name ends with 's'?
+143_2: What are the performance moments for the 'start trip' activity associated with resources whose name ends with 's'?
+143_3: Considering the events associated with the 'start trip' activity and resources whose name ends with 's', recover their performance moments.
+143_4: What are the performance moments of the 'start trip' activity in which the associated resource has a name ending in 's'?
+143_5: What are the moments of the events associated with the performance of the 'start trip' activity in which the associated resource has a name ending in 's'?
+143_6: Report what are the moments of the events associated with the performance of the 'start trip' activity in which the associated resource has a name ending in 's'.
+143_7: Report the moments of the events associated with the performance of the 'start trip' activity in which the associated resource has a name ending in 's'.
+143_8: What are the dates on which a resource whose name ends with 's' carried out an intervention relating to recording the start of a trip?
+143_9: What are the dates on which a trip start record was registered by a resource whose name ends with 's'?
+144_0: Add up event costs grouping by activity and resource.
+144_1: What is the total cost of events associated with an activity and resource pair?
+144_2: What is the total sum of event costs considering each activity-resource pair?
+144_3: For each activity and resource pair, what is the total sum of costs of their events?
+144_4: For each activity and resource pair, what is the total sum of costs of the events in which each pair was recorded?
+144_5: Grouping events by activity and resource, what is the total cost of events for each activity-resource pair?
+144_6: Select the sum of event costs, grouping by activity and resource.
+144_7: Report how much was spent on each association of activities and employees involved in processing the declarations.
+145_0: How many events recorded the performance of 'start trip' and 'end trip' activities?
+145_1: Select the number of occurrences of 'start trip' and 'end trip' activities.
+145_2: Retrieve the number of times 'start trip' or 'end trip' activities occurred
+145_3: Retrieve the number of events related to the performance of 'start trip' and 'end trip' activities.
+145_4: Report the number of times the performance of 'start trip' and 'end trip' activities was recorded.
+145_5: Report the number of events that recorded the performance of 'start trip' and 'end trip' activities.
+145_6: Select the number of occurrences of the 'start trip' and 'end trip' activities.
+145_7: How many times were 'start trip' and 'end trip' activities performed?
+145_8: The beginning of a trip and the end of a trip are recorded for how many travel declarations?
+145_9: How many times were the beginning of a trip and the end of a trip recorded when processing the travel declarations?
+146_0: Which activities were performed more than three times?
+146_1: List activities that were performed more than three times.
+146_2: List the activities that were performed more than three times.
+146_3: Recover activities that have been performed more than three times.
+146_4: What activities were performed more than three times?
+146_5: What are the activities for which there are more than three records of their performance?
+146_6: What are the activities for which there are more than three events recording their performance?
+146_7: Retrieve which activities have more than three events recording their performance.
+146_8: In the processing of declarations, there are activities that are performed many times. Inform me of those that were performed more than three times.
+146_9: I need to know which activities had more than three records when processing travel declarations.
+147_0: What was the last activity performed and what is the resource associated with its performance?
+147_1: Report the last activity performed and the resource associated with its performance
+147_2: Retrieve the last activity performed and the resource associated with its performance
+147_3: The last recorded event refers to the performance of which activity and what is the resource associated with it?
+147_4: Retrieve the last recorded event and report the activity performed and the associated resource.
+147_5: Considering the last recorded event, what activity was performed and what resource was associated with its performance?
+147_6: In the last recorded event, what activity was performed and what resource was associated with its performance?
+147_7: Who was the person who made the last entry in travel declaration processing? This record refers to the performance of which task?
+147_8: Who was the employee who performed the last activity ever recorded in the travel declaration process and what was that activity?
+148_0: What are the events and who is responsible for the activity performed in the event, that occurred after an event performing the 'end trip' activity in the same case?
+148_1: Find the case events and the person responsible for the activity performed in the event, that occurred after an event performing the 'end trip' activity.
+148_2: Find the case events, as well as the person responsible for the activity performed in the event, that occurred after an event performing the 'end trip' activity.
+148_3: Find the events and the person responsible for the activity performed in the event, that occurred after an event performing the 'end trip' activity in the same case.
+148_4: Find the events, as well as the person responsible for the activity performed in the event, that occurred after an event performing the 'end trip' activity in the same case.
+148_5: For each case, find the events, as well as the person responsible for the activity performed in the event, that occurred after an event performing the 'end trip' activity.
+148_6: List the case events and the person responsible for the activity performed in the event, that occurred after an event performing the 'end trip' activity.
+148_7: List the case events, as well as the person responsible for the activity performed in the event, that occurred after an event performing the 'end trip' activity.
+148_8: List the events and the person responsible for the activity performed in the event, that occurred after an event performing the 'end trip' activity in the same case.
+148_9: List the events, as well as the person responsible for the activity performed in the event, that occurred after an event performing the 'end trip' activity in the same case.
+148_10: For each case, list the events, as well as the person responsible for the activity performed in the event, that occurred after an event performing the 'end trip' activity.
+148_11: What are the case events, as well as the person responsible for the activity performed in the event, that occurred after an event performing the 'end trip' activity?
+148_12: For each case, what are the events, as well as the person responsible for the activity carried out in the event, that occurred after an event performing the 'end trip' activity?
+148_13: Considering the events related to each case, which of them occurred after an event involving the performance of the 'end trip' activity? Include in your response information about who was responsible for the activity carried out at the event.
+148_14: Considering the events related to each case, which of them occurred after an event involving the performance of the 'end trip' activity? Include in your response information about the person responsible for the activity carried out at the event.
+148_15: List all actions performed after the end of trip registration, in each of the travel declarations already processed and registered in the system, and the person who was responsible for these performances.
+148_16: For each of the travel declarations, report which actions occurred after recording the end of the trip, and who was the employee who carried out these actions.
+149_0: Find the number of events performed by each resource that do not concern the 'end trip' activity.
+149_1: Find the number of events performed by each resource that are not associated with the 'end trip' activity.
+149_2: Find the number of events performed by each resource that are not related to the 'end trip' activity.
+149_3: Find the number of events that do not correspond to the 'end trip' activity performed by each resource.
+149_4: Find the number of events performed by each resource that do not correspond to the 'end trip' activity.
+149_5: Find the number of events performed by each resource that do not correspond to the performance of the 'end trip' activity.
+149_6: Find the number of events that do not correspond to the performance of the 'end trip' activity performed by each resource.
+149_7: Calculate the number of events performed by each resource that do not concern the 'end trip' activity.
+149_8: Calculate the number of events that do not concern the 'end trip' activity performed by each resource.
+149_9: Calculate the number of events performed by each resource that are not related to the 'end trip' activity.
+149_10: Calculate the number of events performed by each resource that do not correspond to the 'end trip' activity.
+149_11: Calculate the number of events that do not correspond to the 'end trip' activity performed by each resource.
+149_12: Calculate the number of events performed by each resource that do not correspond to the performance of the 'end trip' activity.
+149_13: Calculate the number of events that do not correspond to the performance of the 'end trip' activity performed by each resource.
+149_14: Find the events amount performed by each resource that do not concern the 'end trip' activity.
+149_15: Find the events amount that do not concern the 'end trip' activity performed by each resource.
+149_16: Find the events amount performed by each resource that are not related to the 'end trip' activity.
+149_17: Find the events amount performed by each resource that do not correspond to the 'end trip' activity .
+149_18: Find the events amount that do not correspond to the 'end trip' activity performed by each resource.
+149_19: Find the events amounts performed by each resource that do not correspond to the performance of the 'end trip' activity.
+149_20: Find the events amount that do not correspond to the performance of the 'end trip' activity performed by each resource.
+149_21: Calculate the events amount performed by each resource that do not concern the 'end trip' activity.
+149_22: Calculate the events amount that do not concern the 'end trip' activity performed by each resource.
+149_23: Calculate the events amount that are not related to the 'end trip' activity performed by each resource.
+149_24: Calculate the events amount that do not correspond to the 'end trip' activity performed by each resource.
+149_25: Calculate the events amount performed by each resource that do not correspond to the 'end trip' activity.
+149_26: Calculate the events amount that do not correspond to the performance of the 'end trip' activity performed by each resource.
+149_27: Calculate the events amount performed by each resource that do not correspond to the performance of the 'end trip' activity.
+149_28: Retrieve the number of times an employee worked on processing a travel declaration, except those in which they were responsible for recording the end of a trip.
+149_29: How many actions did each employee perform, disregarding those that record the end of a trip?
+150_0: List the case identifier from most recent to oldest in terms of the start date of the first case event.
+150_1: Present all case identifiers, ordered from most recent to oldest considering the start date of the first event in the case.
+150_2: Considering that the start of the case is the start date of their first event, list the case identifiers in descending chronological order.
+150_3: List the case identifiers in descending chronological order considering the start date of the first event in the case.
+150_4: Present all travel declarations, in terms of their identifiers and ordered according to the dates of registration of the first action taken in each one.
+150_5: Build an ordered list of travel declarations, from oldest to newest. In this list, present the declaration identifier.
+151_0: How many process instances went through the 'request payment' activity?
+151_1: The 'request payment' activity is present in how many process instances?
+151_2: The 'request payment' activity is present in how many cases?
+151_3: Report the number of cases that include the performance of the 'request payment' activity.
+151_4: Report the number of cases in which there is at least one occurrence of the 'request payment' activity.
+151_5: For how many declarations were payment requests registered?
+151_6: How many declarations required a payment request?
+152_0: Which case was the last to perform a 'declaration final approved by director' activity?
+152_1: What was the last process instance to perform the 'declaration final approved by director' activity?
+152_2: Report the identifier of the case that performed the 'declaration final approved by director' activity most recently.
+152_3: Report the identifier of the case that was the last to perform the 'declaration final approved by director' activity.
+152_4: In which case is the last occurrence of the 'declaration final approved by director' activity?
+152_5: The last time a director gave final approval for a declaration was for which declaration?
+152_6: What was the last declaration to receive final approval from a director?
+153_0: Which resource is most active in the 'declaration approved by administration' activity?
+153_1: Which resource was most active in the 'declaration approved by administration' activity?
+153_2: Which resource is associated with the greatest number of occurrences of the 'declaration approved by administration' activity?
+153_3: Which resource worked on the greatest number of events in which the 'declaration approved by administration' activity was performed?
+153_4: What was the resource that worked the most with the 'declaration approved by administration' activity?
+153_5: Who is the most active administrator in approving declarations?
+153_6: Which administration employee approves declarations the most?
+154_0: In how many cases did each resource act in the first activity performed?
+154_1: Report in how many cases each resource was responsible for performing the first event.
+154_2: Report the number of times each resource performed the first activity of a case.
+154_3: How many times did each resource act on the first event of a process instance?
+154_4: For each resource, indicate the number of times they were the first to act on a case.
+154_5: Report in how many declarations each employee was involved in executing the first action.
+154_6: How many declaration processes were initiated by each of the employees?
+155_0: In how many cases did the activity containing the word 'approved' in its name occur?
+155_1: How many cases have gone through the activity that contains the word 'approved' in its name?
+155_2: The activity that contains the word 'approved' in its label appears in how many cases?
+155_3: The activity that contains the word 'approved' in its label occurred in how many cases?
+155_4: In how many cases are there instances of the activity with the word 'approved' in its name?
+155_5: Report the number of cases in which the performance of an activity whose name involves the word 'approved' was recorded.
+155_6: How many declarations were approved at some decision level?
+155_7: Approval actions appear in how many declarations?
+156_0: In how many cases were 'rejected' activities performed per day?
+156_1: How many cases go through 'rejected' activity per day?
+156_2: How many process instances went through 'rejected' activity per day?
+156_3: Rejected' activity occurred in how many cases per day.
+156_4: Each day, how many cases recorded the occurrence of 'rejected' activity?
+156_5: Each day, in how many cases were instances of 'rejected' activity found?
+156_6: How many declarations are rejected, at some decision level, per day?
+156_7: Rejection actions appear in how many declarations each day?
+157_0: What are the five cases with the most events and what are their durations?
+157_1: What are the five cases with the most events and how long did each of them last?
+157_2: List the identifiers of the five cases in which the most events were performed and report how long each lasted.
+157_3: What were the five cases with the most events and what was the duration of each of them?
+157_4: What were the five cases with the most performances of activities and what was the duration of each of them?
+157_5: Report which are the five longest cases in terms of events and what was the duration of each of these cases.
+157_6: What are the five cases that have the most associated events and what is the duration of each of these cases?
+157_7: What are the 5 declarations that went through the greatest number of actions and how long did each of them take to process?
+157_8: What are the five most labor-intensive declarations (most requiring some action to be performed) and how long did each one take to be processed?
+158_0: What are the five longest cases in terms of number of events, among those with at least 20 events, and what is the duration of each of these cases?
+158_1: Find the five cases that have the highest number of events, considering that they have at least 20 events, and report the duration of these cases.
+158_2: What are the five process instances with the most activity performances, considering those in which at least 20 events occurred, and what are the durations of these instances?
+158_3: Among the process instances with 20 or more events, list the five largest and report how long they lasted.
+158_4: Considering cases with 20 events or more, list the five that have the most events and report how long each of them lasted.
+158_5: Within the subset of cases that have at least 20 events, which are the five with the greatest number of events and how long did each of these cases take to perform?
+158_6: What are the five longest declaration processes in terms of events, which have at least 20 events, and what are their durations?
+158_7: Among the declarations with 20 actions or more performed, report the 5 largest and how long their processing took.
+159_0: What are the ten most recent cases in which the 'request payment' activity was not performed?
+159_1: What are the ten most recent travel declaration processes in which the 'request payment' activity was not performed?
+159_2: What are the 10 most recent cases where the 'request payment' activity was not performed?
+159_3: What are the ten newest cases in which the 'request payment' activity was not performed?
+159_4: What are the last 10 cases where the 'request payment' activity was not performed?
+159_5: What are the ten most recent cases that did not go through the 'request payment' activity?
+159_6: Report the 10 most recent cases that did not go through the 'request payment' activity.
+159_7: Retrieve the 10 newest cases in which the 'request payment' activity was not performed.
+159_8: List the last ten cases for which there is no record of the performance of the 'request payment' activity.
+159_9: List the 10 most recent cases for which there is no record of the performance of the 'request payment' activity.
+159_10: List the 10 most recent cases in which there are no occurrences of the 'request payment' activity.
+159_11: What are the 10 most recent processing declarations where no payment requests were registered?
+160_0: Which cases had 10 or fewer events performed?
+160_1: Which cases had ten or fewer events performed?
+160_2: List all cases that had up to ten events performed.
+160_3: Retrieve cases that had a maximum of 10 events performed.
+160_4: Report cases made up of up to ten events.
+160_5: Which process instances have up to 10 activity occurrences?
+160_6: In which process instances were there ten or fewer events?
+160_7: What are the cases for which there are up to ten events recorded in the event log?
+160_8: In which process instances is the performance of ten events or fewer observed?
+160_9: What are the cases in which the performance of up to ten events is observed?
+160_10: In which travel declaration processes were ten or fewer actions performed?
+160_11: Which declarations had 10 events or fewer?
+161_0: What is the average cost of the 'payment handled' activity, for events held before 2018?
+161_1: What is the average cost of the 'payment handled' activity, for the events held before 2018?
+161_2: What is the mean cost of the 'payment handled' activity in the events held before 2018?
+161_3: Calculate the mean cost for executing the 'payment handled' activity in the events held before 2018.
+161_4: Report the average costs of occurrences of the 'payment handled' activity in the occurrences of activities performed before 2018.
+161_5: Within the subset of events performed before 2018, what was the mean cost for performing the 'payment handled' activity?
+161_6: Considering only the occurrences of events before 2018, calculate the mean cost of performing the 'payment handled' activity.
+161_7: Calculate the mean cost of performing the 'payment handled' activity in the context of events performed before 2018.
+161_8: What is the mean cost of actions relating to payments made before 2018?
+162_0: How many times were 'permit' activities performed in each case?
+162_1: How many 'permit' activities were performed for each case?
+162_2: For each case, report the number of times a 'permit' activity was performed.
+162_3: How many instances of 'permit' activities are there in each of the cases?
+162_4: How many event records related to 'permit' activities can be found in the event log for each of the cases?
+162_5: List, for each case, how many records about the performance of 'permit' activities exist.
+162_6: Report the number of occurrences of 'permit' activities for each of the cases recorded in the event log.
+162_7: How many events associated with 'permit' activities are recorded for each case in the event log?
+162_8: How many times have permits been registered for each of the declarations already processed?
+162_9: How many times was each declaration given a 'permit' during its processing?
+163_0: How many cases went through the 'declaration rejected by supervisor' activity and which resources were responsible?
+163_1: How many cases went through the 'declaration rejected by supervisor' activity and what are the resources associated with carrying out these activities?
+163_2: How many cases went through the 'declaration rejected by supervisor' activity, grouped by resource associated with its performance?
+163_3: How many of the cases in the event log went through the 'declaration rejected by supervisor' activity? Retrieve the quantity per resource associated with their performance.
+163_4: Retrieve the number of cases that went through the 'declaration rejected by supervisor' activity, considering each resource associated with its performance.
+163_5: Report how many cases went through the 'declaration rejected by supervisor' activity, grouped by the resource(s) associated with its performance.
+163_6: Rejections made by a supervisor appear in how many declarations, considering each of the supervisors registered in the system?
+163_7: How many declarations were rejected by a supervisor and which supervisors were involved?
+164_0: How many cases are related to each of the possible activities?
+164_1: For each existing activity, how many cases were recorded?
+164_2: For each activity, report how many cases were carried out.
+164_3: Report in how many cases each of the activities were performed.
+164_4: What is the number of cases in which each of the possible activities had its performance recorded?
+164_5: Consider each of the possible activities and report the number of cases in which its performance was recorded.
+164_6: Various actions, activities or tasks are possible when processing a declaration. It is useful to know the number of declarations associated with the performance of each of these actions, activities or tasks.
+164_7: How many declarations are associated with the performance of each of the possible actions in travel declaration processing?
+165_0: Which events associated with tasks that start with 'R' occurred after all events associated with tasks that start with 'D'?
+165_1: What are the events that record activities started by 'R' that occur after all the events that record activities started by 'D'?
+165_2: Which events record the performance of activities started by 'R' that occur after all events recording the performance of activities started by 'D'?
+165_3: Retrieve events associated with tasks starting with 'R' that had their performance registered after all events associated with tasks starting with 'D'.
+165_4: Identify which events record the performance of tasks whose name starts with the character 'R' and that occurred after all records of the performance of tasks with names starting with 'D'.
+165_5: Filtering events that occurred after all activity performance records starting with 'D', retrieve events that record activities starting with 'R'.
+165_6: Which actions starting with the letter 'R' occurred after actions starting with the letter 'D' during the processing of a declaration?
+165_7: What are the registrations that are associated with a declaration processing action whose name begins with the letter 'R' and which were carried out after the registration of actions with the initial letter 'D'?
+166_0: How many times was each activity performed by each resource?
+166_1: What was the number of times each activity was performed by each resource?
+166_2: Count how many times each activity was performed by each resource.
+166_3: Report the number of times each resource was responsible for performing each activity
+166_4: How many times was a given resource associated with the performance of each activity?
+166_5: How many times was each declaration processing action performed by each employee?
+166_6: How many times was each activity performed by each university employee?
+167_0: What are the names of the activities carried out in the first semester of 2018?
+167_1: List the activities carried out in the first semester of 2018.
+167_2: Consider only the first semester of 2018 to list which activities were carried out.
+167_3: What activities were carried out from January 1, 2018 to July 31, 2018?
+167_4: What activities are associated with the events that occurred in the first semester of 2018?
+167_5: What activities were carried out in the first semester of 2018?
+167_6: What was done in the processing carried out in the first semester of 2018?
+168_0: List the cases in which the 'Wayne' resource was allocated, ordering the response by case identifier.
+168_1: Which cases were associated with the 'Wayne' resource? Sort by case identifier.
+168_2: In which cases does the 'Wayne' resource appear associated with the performance of an event? Sort the response by case identifier.
+168_3: Report which cases have events associated with the 'Wayne' resource. Use the case identifier to order your answer.
+168_4: Which process instances involved the work of the 'Wayne' resource? Provide the answer in an ordered manner.
+168_5: Which process instances include events that were the responsibility of the 'Wayne' resource? List the instances in an ordered manner.
+168_6: Retrieve, in an ordered manner, the identifiers of the cases in which the 'Wayne' resource acted.
+168_7: Retrieve, in an ordered manner, all process instances in which the 'Wayne' resource acted.
+168_8: What declarations does the employee Wayne work on? Present the ordered list.
+168_9: What declarations does Wayne work on? Present an ordered list.
+169_0: For each activity, return how many cases it was performed in, considering only those cases that ended on March 12, 2018.
+169_1: For each activity, return how many process instances each of them was performed in, considering only those process instances that ended on March 12, 2018.
+169_2: Considering the subset of cases completed on March 12, 2018, provide a list that associates each activity and in how many cases they appear.
+169_3: Provide a list including activity and number of cases in which it appears, considering the subset of cases completed on March 12, 2018.
+169_4: Relate the activities to the number of cases in which they appear, considering only the cases whose last event ended on March 12, 2018.
+169_5: Extract from the subset of cases completed on March 12, 2018, information about activities that occurred and the number of cases in which they occurred.
+169_6: Each of the possible processing actions was performed on how many declarations processed and ended on March 12, 2018?
+169_7: I need to know in how many declarations performed and ended on March 12, 2018 each of the different processing actions were performed.
+170_0: How many cases started with an activity whose label starts with the word 'permit'?
+170_1: There is a subset of activities whose label starts with 'permit'. Report how many cases started with one of these activities.
+170_2: Given a list of activities whose name starts with 'permit', retrieve how many cases started with one of these activities.
+170_3: What is the number of cases whose first event is associated with an activity with a name starting with 'permit'?
+170_4: Report the number of cases in which the first event is associated with an activity whose label begins with the word 'permit'.
+170_5: How many process instances have as their first activity those whose names begin with the word 'permit'?
+170_6: What is the number of process instances that started with an activity whose name starts with the word 'permit'?
+170_7: Retrieve the number of times processing of a travel declaration started with an activity associated with a permit.
+170_8: How many travel declarations have a permit action associated with the start of their processing?
+171_0: Which cases have not yet gone through the 'request payment' or 'payment handled' activities?
+171_1: Which process instances have not yet gone through the 'request payment' or 'payment handled' activities?
+171_2: Recover cases that have not yet gone through the 'request payment' or 'payment handled' activities.
+171_3: Retrieve process instances that have not yet gone through the 'request payment' or 'payment handled' activities
+171_4: What are the cases for which there is still no record of the occurrence of 'request payment' or 'payment handled' activities?
+171_5: What are the process instances for which there is still no record of the occurrence of 'request payment' or 'payment handled' activities?
+171_6: Report which cases there is no record of events associated with the 'request payment' or 'payment handled' activities.
+171_7: Report for which process instances there is no record of events associated with the 'request payment' or 'payment handled' activities.
+171_8: In which cases are 'request payment' or 'payment handled' activities still not observed?
+171_9: In which process instances have 'request payment' or 'payment handled' activities not yet been observed?
+171_10: In how many declarations is there still no record of payment made or payment request?
+171_11: What declarations are still pending in relation to payment request and payment made records?
+172_0: What data is recorded about the occurrences of 'start trip' and 'declaration submitted by employee' activities? Provide the answer sorted by date and by resource.
+172_1: Retrieve all information about events relating to 'start trip' or 'declaration submitted by employee' activities, sorting the response in ascending order of date and name of the resource.
+172_2: I need information about the events associated with 'start trip' and 'declaration submitted by employee' activities, in ascending order of date and resource.
+172_3: Retrieve information about events associated with the 'start trip' and 'declaration submitted by employee' activities, sorting them first by date and then by resource.
+172_4: Retrieve information about events related to 'start trip' and 'declaration submitted by employee' activities, from oldest to newest, and then ordered by resource.
+172_5: Retrieve, in ascending order of date and resource, information about events related to 'start trip' and 'declaration submitted by employee' activities.
+172_6: For all events associated with 'start trip' and 'declaration submitted by employee' activities, retrieve the information by listing it in order of date and resource.
+172_7: Retrieve information relating to occurrence records for 'start trip' and 'declaration submitted by employee' activities, organizing the response in order of date and resource.
+172_8: What data is recorded in the events associated with 'start trip' and 'declaration submitted by employee' activities? Provide the answer sorted by date and by resource.
+172_9: What information is available on actions to initiate travel and request a declaration by an employee? Sort this report by date and employee name.
+172_10: The processing of declarations begins with a record about the start of the trip or at a request from an employee. Considering this, provide information on the events associated with the start of processing a declaration, in ascending order according to date and the name of the employee associated with the performance of the event.
+173_0: How many times was each resource associated with an occurrence of the 'declaration saved by employee' activity? Sort the response according to the resource attribute.
+173_1: How many records of 'declaration saved by employee' activities are there associated with each resource? Provide the answer sorted by resource.
+173_2: For each resource, how many records of the 'declaration saved by employee' activity are there? Sort the answer by resource name.
+173_3: Retrieve the number of times each resource was associated with the 'declaration saved by employee' activity. Order your answer according to the resource names.
+173_4: How many occurrences of the 'declaration saved by employee' activity were associated with each of the resources present in the log? Sort the response according to the resource name.
+173_5: Considering each resource in the log records, provide information on how many times each of them was associated with the performance of the 'declaration saved by employee' activity, providing the answer ordered by resource.
+173_6: Provide information on how many times each resource was responsible for executing the 'declaration saved by employee' activity. Display the information sorted by resource name.
+173_7: What is the number of associations between each resource and the performance of the 'declaration saved by employee' activity? Sort the answer by resource.
+173_8: How many times has the performance of the 'declaration saved by employee' activity been associated with each resource? Sort your answer by resource name.
+173_9: I need to know how many times each employee recorded a action of saving a travel declaration. Provide the answer sorted by employee name.
+173_10: How many times was each employee responsible for saving a declaration? Sort the answer by employee name.
+174_0: In how many cases was each activity performed?
+174_1: For each activity, report in how many cases there are records of its performance.
+174_2: Considering each of the activities present in the event log, report the number of cases in which they occurred.
+174_3: In how many process instances was each activity performed?
+174_4: For each activity, calculate in how many process instances they were performed in.
+174_5: What is the number of cases in which each activity was performed?
+174_6: Calculate the number of cases in which each activity was performed.
+174_7: Considering each of the possible actions in processing a travel declaration, report the number of declarations in which each action appears.
+174_8: Report the number of declarations in which each of the possible actions in processing travel declarations were carried out.
+175_0: How many different activities did each resource perform?
+175_1: Retrieve information about how many different activities each resource performed.
+175_2: In how many different activities did each resource act?
+175_3: In how many different activities was each resource associated?
+175_4: For each resource, check how many different activities it was involved in.
+175_5: What is the number of different activities that each resource was associated with?
+175_6: What is the number of different activities that each resource worked on?
+175_7: How many different actions related to the processing of travel declarations was each employee responsible for recording in the system?
+175_8: How many different actions has each employee performed while processing travel declarations?
+176_0: In how many occurrences of completion activities ('end trip', 'payment handled') was each resource allocated?
+176_1: How many final activities ('end trip', 'payment handled') was each person responsible for?
+176_2: How many occurrences of completion activities ('end trip', 'payment handled') was each resource responsible for?
+176_3: For each resource, check how many occurrences of completion activities ('end trip', 'payment handled') it acted on.
+176_4: How many times was each resource associated with the performance of a completion activity ('end trip', 'payment handled')?
+176_5: Considering each resource present in the event log, calculate how many times each of them was responsible for performing a completion activity ('end trip', 'payment handled').
+176_6: How many times has each employee completed the processing of a travel declaration by acting on end of trip or payment actions?
+176_7: Completion activities are those that end a trip or make a payment. How many times has each employee been responsible for completion activities?
+177_0: How many times was each resource responsible for performing the first occurrence of the 'declaration rejected by pre-approver' activity in a case?
+177_1: In how many cases was each resource responsible for performing the first occurrence of the 'declaration rejected by pre-approver' activity?
+177_2: In how many process instances was each resource responsible for executing the first occurrence of the 'declaration rejected by pre-approver' activity?
+177_3: For each resource, report how many times it was responsible for performing the first occurrence of the 'declaration rejected by pre-approver' activity in a case.
+177_4: For each resource, report how many times it was responsible for executing the first occurrence of the 'declaration rejected by pre-approver' activity in a process instance.
+177_5: In how many cases has each employee served in the role of pre-approver and rejected the declaration?
+177_6: For how many travel declarations has each employee in the role of pre-approver been responsible for taking the first action regarding declaration rejection?
+178_0: How many occurrences of activities were recorded in each case until the 'end trip' activity occurred?
+178_1: How many activity occurrences were recorded in each case until the 'end trip' activity was performed?
+178_2: How many instances of activity were recorded in each case until it went through the 'end trip' activity?
+178_3: How many events occurred in each case before it went through the 'end trip' activity?
+178_4: How many activity occurrences were recorded in each process instance until the 'end trip' activity was performed?
+178_5: How many activity occurrences were recorded in each process instance until it went through the 'end trip' activity?
+178_6: How many events occurred in each process instance until it went through the 'end trip' activity?
+178_7: Check the number of events that occurred in each case until it reached the performance of the 'end trip' activity.
+178_8: Check the number of events that occurred in each process instance until it reached the performance of the 'end trip' activity.
+178_9: Check how many actions were performed until the end of the trip took place in each travel declaration case.
+178_10: For each declaration, how many actions were necessary until the end of the trip was recorded?
+179_0: What activities did the Thomas resource carry out in the first semester of 2018?
+179_1: What activities did the Thomas resource perform in the first semester of 2018?
+179_2: What were the activities carried out by the resource named Thomas in the first semester of 2018?
+179_3: Report the label of the activities carried out by Thomas in the first semester of 2018.
+179_4: What activities did the Thomas resource carry out between 1/1/2018 and 7/31/2018?
+179_5: What activities did the Thomas resource perform between January 1, 2018 and July 31, 2018?
+179_6: What activities did the Thomas resource perform in the first six months of 2018?
+179_7: The employee Thomas was allocated to which types of actions during the first semester of 2018?
+179_8: What types of actions did the employee Thomas work on in the first semester of 2018?
+180_0: Which cases went through the 'declaration rejected by supervisor' activity? Sort ascending by start date.
+180_1: Which process instances went through the 'declaration rejected by supervisor' activity? Sort the answer in ascending order by start date.
+180_2: In which cases was the 'declaration rejected by supervisor' activity performed? Provide the answer in date order relative to the start of the case.
+180_3: In which cases was the 'declaration rejected by supervisor' activity performed? Provide the answer in ascending temporal order relative to the beginning of the case.
+180_4: In which process instances was the 'declaration rejected by supervisor' activity performed? Provide the answer in date order relative to the start of the process.
+180_5: In which process instances was the 'declaration rejected by supervisor' activity performed? Provide the answer in ascending temporal order relative to the start of the process.
+180_6: Present, in ascending temporal order relative to the beginning of the case, the list of cases in which the 'declaration rejected by supervisor' activity was performed.
+180_7: Present, in ascending temporal order relative to the beginning of the process, the list of process instances in which the 'declaration rejected by supervisor' activity was performed.
+180_8: Rejections determined by a supervisor are noted in which travel declarations? Report the declarations in the temporal order of the beginning of their processing.
+180_9: Which declarations were rejected by the supervisor? Report the declarations ordered by processing start date.
+181_0: Which cases went through the 'start trip' activity and had not ended by March 2018?
+181_1: Which process instances went through the 'start trip' activity and had not finished by March 2018?
+181_2: Which process performances went through the 'start trip' activity and had not ended by March 2018?
+181_3: Which cases went through the 'start trip' activity and had not ended by March 31, 2018?
+181_4: Which process instances went through the 'start trip' activity and had not finished by March 31, 2018?
+181_5: Which process performances went through the 'start trip' activity and had not finished by March 31, 2018?
+181_6: Which cases went through the 'start trip' activity and had not finished by 31/03/2018?
+181_7: Which process instances went through the 'start trip' activity and had not finished by 31/03/2018?
+181_8: Which process performances went through the 'start trip' activity and had not finished by 31/03/2018?
+181_9: Which declarations were not finalized by March 31, 2018, have already had them registered in the system by recording the start of the trip action?
+181_10: Which declarations that have already registered the start of the trip had not been processed by March 31, 2018?
+182_0: Which cases recorded a completion activity ('end trip') but did not record a payment activity ('request payment', 'payment handled') and had more than one resource acting?
+182_1: What are the cases that went through the 'end trip' activity but did not go through the 'request payment' or 'payment handled' activity and in which more than one resource acted?
+182_2: For which cases is there a record of a completion activity ('end trip'), no record of payment activity ('request payment', 'payment handled') and more than one associated resource?
+182_3: Which cases involved more than one resource, recorded the 'end trip' activity, but did not record either 'request payment' or 'payment handled'?
+182_4: Which process instances involved more than one resource, recorded the 'end trip' activity, but did not record either 'request payment' or 'payment handled'?
+182_5: In which cases was there a record of involvement of more than one resource, a record of 'end trip' activity, but no record of 'request payment' or 'payment handled' activity?
+182_6: In which process instances was there a record of involvement of more than one resource, a record of 'end trip' activity, but no record of 'request payment' or 'payment handled' activity?
+182_7: Which declarations were finalized without payment made or recorded?
+182_8: Which declarations were finalized with end of trip registration without a payment having been made or at least a payment request having been registered?
+183_0: For each case, report the number of resources involved and the total cost of the case.
+183_1: How many different resources worked on each process instance and what is the cost of this instance?
+183_2: How many different resources worked on each case and what is the cost of this case?
+183_3: For each process instance, what is the number of unique resources and their cost?
+183_4: For each process instance, report how many resources were involved and what the final cost of performance was.
+183_5: For each case, provide the total cost and how many resources were involved in its performance.
+183_6: What was the cost of each case and how many resources worked on each one?
+183_7: How much did each case cost to perform and how many resources were involved in each of them?
+183_8: How much did each process instance cost to perform and how many resources were involved in it?
+183_9: How many different people worked on each of the travel declarations and what was the total cost of each of the declarations?
+184_0: Which cases have more than one activity whose name starts with 'permit'?
+184_1: Retrieve cases in which there is more than one occurrence of activities starting with the term 'permit'.
+184_2: Which cases have two or more activities whose name starts with 'permit'?
+184_3: Which cases involved activities whose name starts with 'permit' more than once?
+184_4: Which cases performed activities whose name starts with 'permit' more than once?
+184_5: List the cases in which there is more than one event record associated with an activity whose name starts with 'permit'.
+184_6: In which cases were activities whose name starts with 'permit' performed more than once?
+184_7: In which cases is there more than one record of the performance of activities whose name starts with 'permit'?
+184_8: Actions related to permits were performed during the processing of which declarations?
+184_9: In which declarations was more than one action recorded regarding some type of permit?
+185_0: What are the identifiers of the last events performed, in each case, in order of performance time?
+185_1: For each case, retrieve the identifier of the last event, ordering the list by the event performance time.
+185_2: Identify the last event performed for each case and list the identifiers of these events in order of performance.
+185_3: List the last events performed, considering each case, listing the identifiers following the order in which the events were performed.
+185_4: What are the identifiers of the last events performed, in each process instance, in order of performance time?
+185_5: For each process instance, retrieve the identifier of the last event, ordering the list by the event performance time.
+185_6: Identify the last event performed for each process instance and list the identifiers of these events in order of performance.
+185_7: List the last events performed, considering each process instance, listing the identifiers following the order in which the events were performed.
+185_8: What was the last intervention made in each of the travel declarations (list the identifier of the interventions considering the order of performance)?
+186_0: What activities have occurred at least a hundred times?
+186_1: List the labels of activities that have occurred a hundred times or more.
+186_2: What activities have occurred a hundred times or more?
+186_3: List the labels of activities that have occurred at least one hundred times.
+186_4: Report the activities for which there were one hundred or more occurrences recorded in the log.
+186_5: For which activities are one hundred or more occurrences recorded in the event log?
+186_6: What were the actions for which 100 or more occurrences were recorded?
+186_7: Which of the actions relating to processing declarations have already been carried out 100 or more times?
+187_0: For each group of employees (employee, supervisor, administration, pre-approver, budget owner, supervisor, director), list the number of cases in which an activity for which the group is responsible was recorded.
+187_1: For each group of employees (employee, supervisor, administration, pre-approver, budget owner, supervisor, director), indicate the number of cases in which someone in the group was actioned.
+187_2: For each group of employees (employee, supervisor, administration, pre-approver, budget owner, supervisor, director), what is the number of cases in which an activity associated with the group was performed?
+187_3: For each group of employees (employee, supervisor, administration, pre-approver, budget owner, supervisor, director), list the number of cases in which at least one activity related to each group was performed.
+187_4: For each employee group (employee, supervisor, administration, pre-approver, budget owner, supervisor, director), list the number of declarations in which an activity for which the group is responsible was recorded.
+188_0: Order the activities previously associated with a resource group according to what is specified in its label (employee, supervisor, administration, pre-approver, budget owner, supervisor, director), considering the number of times they were performed.
+188_1: Present a list of activities previously associated with a resource group as specified in its label (employee, supervisor, administration, pre-approver, budget owner, supervisor, director). The list must be ordered according to the number of times a group's activities were performed.
+188_2: Considering that there are actions whose name identifies the role of the employee responsible, present an ordered list with the number of times that actions from each group were carried out.
+189_0: What are the cases in which there are events recorded after the trip has ended?
+189_1: Which cases had activities carried out after the event that records the end of the trip?
+189_2: In which cases are events included after the completion of the trip is recorded?
+189_3: List the cases in which events were recorded after the end of the trip.
+189_4: List the cases that had activities carried out after the end of the trip.
+189_5: Which declarations received the register of actions even after they registered end of the trip?
+190_0: How many cases, to date, have the performance of the 'send reminder' activity as the last recorded event?
+190_1: How many cases have the performance of the 'send reminder' activity as the last event recorded to date?
+190_2: Identify how many cases that, until now, have the performance of the 'send reminder' activity as the last recorded event
+190_3: To date, how many cases have the 'send reminder' activity recorded as the last occurrence?
+190_4: To date, what is the number of cases in which the most recent event records the performance of 'send reminder'?
+190_5: Count how many declarations are stuck in a 'send reminder' activity.
+191_0: What are the resources that were not working on March 31, 2018?
+191_1: What resources were not allocated to any event on March 31, 2018?
+191_2: List all resources that were not associated with events performed on March 31, 2018.
+191_3: Report idle resources on March 31, 2018.
+191_4: Who were idle employees in the travel declaration process on March 31, 2018?
+191_5: Which employees were not allocated to any declaration processing action on March 31, 2018?
+192_0: Identify the number of events recording the performance of each activity for cases completed between '2018-12-01' and '2018-12-05'.
+192_1: Considering cases completed between ‘2018-12-01’ and ‘2018-12-05’, identify the performance frequency of each activity.
+192_2: By filtering completed cases in the '2018-12-01' to '2018-12-05' period, determine the performance frequency of each activity.
+192_3: Consider cases closed between '2018-12-01' and '2018-12-05'. What is the performance frequency for each recorded activity?
+192_4: For cases completed between '2018-12-01' and '2018-12-05', how many times was each activity performed?
+192_5: What was the performance frequency of each action in processing declarations completed between ‘2018-12-01’ and ‘2018-12-05’?
+193_0: Indicate how many cases do not have a record of the performance of the 'payment handled' activity to date.
+193_1: To date, in how many cases is there no record of the performance of the 'payment handled' activity?
+193_2: In how many cases has the performance of the 'payment handled' activity not been recorded to date?
+193_3: So far, in how many cases has the 'payment handled' activity not been recorded?
+193_4: What is the number of cases in which the performance of the 'payment handled' activity has not been recorded so far?
+193_5: To date, for how many declarations is there no record of payment being made?
+193_6: Indicate how many declarations do not have a record of payment made to date.
+193_7: In general, a declaration is completed with the recording of a payment activity, as the last action performed. Considering this information, which declarations have not yet been finalized?
+194_0: How many different resources were associated with the performance of each activity?
+194_1: For each activity, how many distinct resources were associated with its performance?
+194_2: Report the number of different resources associated with the performance of each activity.
+194_3: Identify how many unique resources were involved in performing each activity.
+194_4: How many distinct resources were associated with the performance of each activity?
+194_5: How many different employees have already been allocated to each of the declaration processing actions?
+195_0: What are the activities that preceded a 'send reminder' occurrence?
+195_1: What has already been done before the 'send reminder'?
+195_2: What actions have already preceded the sending of a reminder in travel declarations registered in the system?
+196_0: What is the distribution of cases in relation to the number of events recorded per case?
+196_1: Calculate the number of events per case and indicate how many cases are associated with each event count.
+196_2: Calculate the number of events per case and report how many cases correspond to each number.
+196_3: When calculating the number of events per case, how many cases relate to the different event counts found?
+196_4: Count how many actions were performed in each declaration and report how many declarations have the same number of events performed.
+197_0: Considering the total cost of a case as the sum of the cost of all its events, what is the average total cost of the cases in this log?
+197_1: Considering that the total cost of a case is the result of the sum of the costs of all events associated with the case, what would be the mean total costs for the cases in this log?
+197_2: Taking into account that the total cost of a case is the sum of the costs of all its events, what is the mean of the total costs of the cases in this log?
+197_3: Assume the total cost of a case as the sum of the costs of all its events. What is the mean total costs for the cases in this log?
+197_4: Consider the total cost of a case as the sum of the costs of all its events. What is the mean of the total costs?
+197_5: How much was spent on average processing the declarations?
+198_0: What is the mean cost of events when grouped by resource?
+198_1: When grouping by resource, what is the mean cost of events?
+198_2: When grouping events according to the resources used in them, indicate the mean cost of the set of events associated with each resource.
+198_3: Considering a grouping of events by resource, what is the mean cost of the events associated with each resource?
+198_4: Group events by resource and identify the mean cost of events in each group.
+198_5: What is the mean cost associated with events for which each employee is responsible?
+199_0: What are the 10 resources most frequently associated with the performance of activities recorded in the events?
+199_1: Identify the 10 resources most frequently linked to the performance of activities recorded in the events.
+199_2: Identify the 10 resources most frequently related to the performance of activities recorded in the events.
+199_3: List the 10 resources that appear most frequently in the performance of activities recorded in the events.
+199_4: List the top 10 resources in terms of number of events that use them during the performance of the registered activity.
+199_5: Who are the 10 employees most requested for processing travel declarations?
+200_0: How many events were run per day?
+200_1: How many occurrences of activity were there each day?
+200_2: How many actions were performed each day in processing the declarations?
+201_0: List all cases in which two different resources subsequently performed the same activity.
+201_1: Indicate cases in which the same activity was performed twice in a row by two different resources.
+201_2: For the same declaration, was the same action recorded consecutively, but carried out by different employees? List for which declarations this occurred.
+202_0: How many events occurred in each case before the 'declaration final approved by director' activity was recorded, for those cases where it was recorded?
+202_1: For cases in which there was the 'declaration final approved by director' activity, report how many events preceded the occurrence of this activity.
+202_2: How many interventions were necessary before the declaration received final approval from the director, in each of the declarations in which this approval was recorded?
+203_0: How much time passed between the occurrence of the 'permit submitted by employee' activity and the 'permit approved by administration' activity, in each case in which such activities occurred?
+203_1: What was the time interval between the occurrence of the 'permit submitted by employee' activity and the 'permit approved by administration' activity, in each case in which such activities occurred?
+203_2: How much time passed between the employee requesting a permit and the permit being approved by administration, in the declarations in which these actions occurred?
+204_0: In which cases was there rework?
+204_1: Retrieve cases where rework situations occurred.
+204_2: Report which cases went through rework situations.
+204_3: In which declarations was there rework?
+204_4: In which declarations did we have problems with rework?
+204_5: In which declarations was the same intervention performed more than once?
+205_0: In which cases were activities of the same type performed consecutively?
+205_1: Recover cases in which activities of the same type occurred consecutively.
+205_2: Report which cases have undergone rework situations, with sequences of performance of the same activity.
+205_3: In which declarations were activities of the same type carried out consecutively?
+205_4: In which declarations did we have problems with equal and consecutive interventions?
+205_5: In which declarations was an intervention performed at least twice consecutively?
+206_0: Which employees are supervisors?
+206_1: Which employees took on the role of supervisors during the processing of declarations?
+207_0: Which employees are responsible for the budget?
+207_1: Which employees took on the role of budget owners during the processing of declarations?

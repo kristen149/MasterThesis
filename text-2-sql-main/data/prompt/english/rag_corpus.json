@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Event log schema",
+    "content": "The event_log table records process events. Columns: id (unique event id), activity (the action performed, e.g. 'Start trip'), timestamp (when it happened), resource (who performed it), cost (numeric cost), idcase (case identifier grouping events of the same process instance). TEXT columns are COLLATE NOCASE so string comparisons are case-insensitive.",
+    "tags": ["schema", "columns"]
+  },
+  {
+    "title": "Cases and case identifiers",
+    "content": "A 'case' is a process instance — all events sharing the same idcase belong to the same case. To count cases, use COUNT(DISTINCT idcase). To list events belonging to one case, filter WHERE idcase = '<value>' and ORDER BY timestamp.",
+    "tags": ["case", "process-mining"]
+  },
+  {
+    "title": "Activities and activity frequency",
+    "content": "Each row's activity column names a step in the process. To count how often an activity occurs: SELECT activity, COUNT(*) FROM event_log GROUP BY activity. To find the most frequent activity: ORDER BY COUNT(*) DESC LIMIT 1.",
+    "tags": ["activity", "frequency"]
+  },
+  {
+    "title": "Resources (performers)",
+    "content": "The resource column holds the actor performing the activity (a person's name). To find which resources performed a given activity: SELECT DISTINCT resource FROM event_log WHERE activity = '<x>'. To rank resources by workload: SELECT resource, COUNT(*) FROM event_log GROUP BY resource ORDER BY COUNT(*) DESC.",
+    "tags": ["resource", "workload"]
+  },
+  {
+    "title": "Variants (process paths)",
+    "content": "A variant is the ordered sequence of activities within a case. To build the variant of one case: SELECT activity FROM event_log WHERE idcase = '<x>' ORDER BY timestamp. To group cases by variant in SQL, use GROUP_CONCAT(activity ORDER BY timestamp) within a GROUP BY idcase subquery.",
+    "tags": ["variant", "trace"]
+  },
+  {
+    "title": "Throughput time / cycle time",
+    "content": "Throughput time of a case = MAX(timestamp) - MIN(timestamp) for events in that case. Example: SELECT idcase, julianday(MAX(timestamp)) - julianday(MIN(timestamp)) AS days FROM event_log GROUP BY idcase. Use julianday() differences then multiply by 24 for hours, 86400 for seconds.",
+    "tags": ["throughput", "duration"]
+  },
+  {
+    "title": "First and last activity of a case",
+    "content": "First activity per case: SELECT idcase, activity FROM event_log e WHERE timestamp = (SELECT MIN(timestamp) FROM event_log WHERE idcase = e.idcase). Last activity: same pattern with MAX(timestamp). Useful for finding 'how many cases started with X' or 'ended with Y'.",
+    "tags": ["start", "end", "boundary"]
+  },
+  {
+    "title": "Rework detection",
+    "content": "Rework occurs when an activity repeats within a case. To find cases with rework on a given activity: SELECT idcase FROM event_log WHERE activity = '<x>' GROUP BY idcase HAVING COUNT(*) > 1. To count total rework occurrences: subtract the distinct (case,activity) count from total event count.",
+    "tags": ["rework", "loop"]
+  },
+  {
+    "title": "Activity transitions (directly-follows pairs)",
+    "content": "A directly-follows pair (a -> b) is when activity b immediately follows a within the same case. In SQL: SELECT a.activity AS prev, b.activity AS next FROM event_log a JOIN event_log b ON a.idcase = b.idcase AND b.timestamp > a.timestamp WHERE NOT EXISTS (SELECT 1 FROM event_log m WHERE m.idcase = a.idcase AND m.timestamp > a.timestamp AND m.timestamp < b.timestamp).",
+    "tags": ["transition", "df-pair"]
+  },
+  {
+    "title": "Cost aggregations",
+    "content": "Total cost: SELECT SUM(cost) FROM event_log. Average cost per case: SELECT AVG(s) FROM (SELECT SUM(cost) s FROM event_log GROUP BY idcase). Cost per activity: SELECT activity, SUM(cost) FROM event_log GROUP BY activity.",
+    "tags": ["cost", "aggregate"]
+  },
+  {
+    "title": "Time-window filtering",
+    "content": "Filter events by date range: WHERE timestamp >= '2017-01-01' AND timestamp < '2018-01-01'. SQLite compares ISO-8601 timestamps lexicographically, so string ranges work without casting. Use date(timestamp), strftime('%Y', timestamp), strftime('%m', timestamp) for year/month grouping.",
+    "tags": ["time", "filter", "date"]
+  },
+  {
+    "title": "Counting events vs counting cases",
+    "content": "Be precise about the unit: COUNT(*) counts events (rows); COUNT(DISTINCT idcase) counts cases. 'How many trips' usually means cases; 'how many activities' or 'how many times' usually means events. When in doubt, prefer COUNT(DISTINCT idcase) for case-level questions.",
+    "tags": ["counting", "semantics"]
+  },
+  {
+    "title": "PQL-style filters → SQL patterns",
+    "content": "Process Query Language (PQL) constructs map to SQL: PU_FIRST(case, activity) → first activity per case (see 'First and last activity'); PROCESS EQUALS '...' → variant equality via GROUP_CONCAT; ACTIVITY = 'x' → WHERE activity = 'x'; CASE_ID IN (...) → WHERE idcase IN (...).",
+    "tags": ["pql", "translation"]
+  },
+  {
+    "title": "Common pitfalls",
+    "content": "Pitfalls when generating SQL for event_log: (1) Don't quote column names. (2) Don't add LIMIT unless asked. (3) For 'how many X activities', COUNT(*) on filtered rows, not COUNT(DISTINCT activity). (4) When ordering by frequency, the alias must be repeated or the expression repeated in ORDER BY. (5) timestamp is stored as DATETIME text — comparisons work but use julianday() for arithmetic.",
+    "tags": ["pitfalls", "tips"]
+  }
+]

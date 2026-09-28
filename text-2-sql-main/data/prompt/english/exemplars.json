@@ -1,0 +1,26 @@
+[
+  {
+    "question": "How many events did the resource 'Linda' perform?",
+    "sql": "SELECT COUNT(*) FROM event_log WHERE resource = 'Linda';"
+  },
+  {
+    "question": "List the distinct activities recorded in the event log.",
+    "sql": "SELECT DISTINCT activity FROM event_log;"
+  },
+  {
+    "question": "What is the total cost across all events?",
+    "sql": "SELECT SUM(cost) FROM event_log;"
+  },
+  {
+    "question": "Show each activity together with the number of times it occurs, sorted from most to least frequent.",
+    "sql": "SELECT activity, COUNT(*) AS occurrences FROM event_log GROUP BY activity ORDER BY occurrences DESC;"
+  },
+  {
+    "question": "How many distinct cases (idcase values) are in the event log?",
+    "sql": "SELECT COUNT(DISTINCT idcase) FROM event_log;"
+  },
+  {
+    "question": "What was the earliest timestamp at which any 'Start trip' activity occurred?",
+    "sql": "SELECT MIN(timestamp) FROM event_log WHERE activity = 'Start trip';"
+  }
+]

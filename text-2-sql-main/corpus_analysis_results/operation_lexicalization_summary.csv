@@ -1,0 +1,11 @@
+sql_operation,occurrences,explicit_cue,no_explicit_cue,lexicalization_rate_pct
+COUNT,920,667,253,72.5
+DISTINCT,539,47,492,8.72
+SUM,48,28,20,58.33
+MIN,118,19,99,16.1
+MAX,129,56,73,43.41
+GROUP BY,953,587,366,61.59
+Temporal,198,178,20,89.9
+Negation,164,107,57,65.24
+Set operation,80,0,80,0.0
+OVERALL,3149,1689,1460,53.64

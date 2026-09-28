@@ -1,0 +1,17 @@
+# Legacy analysis (scripts/)
+pandas
+matplotlib
+
+# Pipeline core
+requests>=2.31
+tqdm>=4.66
+
+# HuggingFace adapter (api mode is enough for most users)
+huggingface_hub>=0.24
+
+# RAG retriever
+scikit-learn>=1.3
+
+# Optional - required only for --source hf --hf_mode local
+# transformers>=4.40
+# torch>=2.1

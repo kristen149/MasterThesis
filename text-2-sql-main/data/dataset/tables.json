@@ -1,0 +1,84 @@
+[
+    {
+       "column_names": [
+          [
+             -1,
+             "*"
+          ],
+          [
+             0,
+             "id"
+          ],
+          [
+             0,
+             "activity"
+          ],
+          [
+             0,
+             "timestamp"
+          ],
+          [
+             0,
+             "resource"
+          ],
+          [
+             0,
+             "cost"
+          ],
+          [
+             0,
+             "idcase"
+          ]
+       ],
+       "column_names_original": [
+          [
+             -1,
+             "*"
+          ],
+          [
+             0,
+             "id"
+          ],
+          [
+             0,
+             "activity"
+          ],
+          [
+             0,
+             "timestamp"
+          ],
+          [
+             0,
+             "resource"
+          ],
+          [
+             0,
+             "cost"
+          ],
+          [
+             0,
+             "idcase"
+          ]
+       ],
+       "column_types": [
+          "text",
+          "number",
+          "text",
+          "text",
+          "text",
+          "number",
+          "text"
+       ],
+       "db_id": "event_log",
+       "foreign_keys": [],
+       "primary_keys": [
+          1
+       ],
+       "table_names": [
+          "event_log"
+       ],
+       "table_names_original": [
+          "event_log"
+       ]
+    }
+ ]

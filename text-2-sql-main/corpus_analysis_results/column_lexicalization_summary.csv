@@ -1,0 +1,7 @@
+column,references,lexicalized,not_lexicalized,lexicalization_rate_pct
+idcase,835,449,386,53.77
+activity,984,817,167,83.03
+resource,673,644,29,95.69
+timestamp,540,176,364,32.59
+cost,222,204,18,91.89
+OVERALL,3254,2290,964,70.37
